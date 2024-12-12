@@ -1,0 +1,60 @@
+panels:
+  menu_ruleta:
+    perm: default
+    rows: '5'
+    title: '&8Panel Ruleta'
+    empty: AIR
+    item:
+      '3':
+        material: blaze_rod
+        customdata: '2'
+        name: Crafteos
+        lore:
+          - Da clic para ver los crafteos
+      '5':
+        material: blaze_rod
+        name: Notificaciones
+        customdata: '7'
+        lore:
+          - Da clic para ver las notificaciones
+      '20':
+        material: blaze_rod
+        name: Cambios de Dificultad
+        lore:
+          - Da clic para ver los cambios de dificultad
+        customdata: '3'
+      '22':
+        material: blaze_rod
+        customdata: '1'
+        name: Reto Latam 2.0
+        lore:
+          - Gracias por jugar el servidor
+      '24':
+        material: blaze_rod
+        customdata: '6'
+        name: Misiones Secundarias
+        lore:
+          - Da clic para ver las misiones secundarias
+      '39':
+        material: blaze_rod
+        name: Enciclopedia de Mobs
+        lore:
+          - Da clic para ver la descripción de los mobs
+        customdata: '4'
+      '41':
+        material: blaze_rod
+        customdata: '5'
+        name: Misiones Diarias
+        lore:
+          - Da clic para ver las misiones
+    open-with-item:
+      stationary: '17'
+      material: ender_pearl
+      name: Menu
+      customdata: '1'
+      lore:
+        - Da clic para abrir el menu
+    commands-on-open:
+      - 'playsound retolatam2.0:abrirmenu player @s'
+    commands-on-close:
+      - 'playsound retolatam2.0:cerrarmenu player @s'

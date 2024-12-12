@@ -1,0 +1,14 @@
+pilarEntregarMision:
+  type: block_interact
+  conditions:
+  - '%block_x% == 20'
+  - '%block_y% == 60'
+  - '%block_z% == 20'
+  - '%block_world% == world'
+  - '%block% == BARREL'
+  - '%action_type% == RIGHT_CLICK'
+  - '%item% == IRON_NUGGET'
+  - '%item_custom_model_data% == 2'
+  actions:
+    default:
+    - 'to_all: message: &b&l%player% &l&3ha completado la misión diaria.'

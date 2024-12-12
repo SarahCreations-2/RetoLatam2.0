@@ -1,0 +1,1874 @@
+[2024-11-29 22:58:31] [INFO   ]  Custom Logger Initialized 
+[2024-11-29 22:58:32] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-29 22:58:32] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-29 22:58:32] [INFO   ] Watchdog Thread hooked. 
+[2024-11-29 22:58:32] [INFO   ]  bStats Metrics enabled. 
+[2024-11-29 22:58:32] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-29 22:58:32] [INFO   ] Unfreezing biome registry... 
+[2024-11-29 22:58:32] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-29 22:58:32] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-29 22:58:32] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-29 22:58:32] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-29 22:58:32] [INFO   ] Freezing biome registry 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-29 22:58:32] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-29 22:58:33] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 22:58:33] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-29 22:58:33] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 22:58:33] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-29 22:58:33] [INFO   ] Java 14+ detected. 
+[2024-11-29 22:58:33] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-29 22:58:33] [INFO   ]  world loaded. 
+[2024-11-29 22:59:07] [INFO   ] Will spawn stronghold at: -626, -1261 
+[2024-11-29 22:59:07] [INFO   ] Spawning MossyCavePopulator at 0,8,0 
+[2024-11-29 22:59:07] [INFO   ] Large Cave at 320,24,320 has water level > -5 with populator GenericLargeCavePopulator 
+[2024-11-29 22:59:08] [INFO   ] Calculated structure at 0,0 
+[2024-11-29 22:59:08] [INFO   ] Spawning DeepCavePopulator at 0,-42,-16 
+[2024-11-29 22:59:08] [INFO   ] Spawning CaveFluidClusterPopulator at -5,8,-6 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -157 -10 -183 in a room of size 14x15 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -232 -10 -209 in a room of size 15x13 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -174 -10 -167 in a room of size 13x15 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -211 -10 -235 in a room of size 14x13 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -161 -10 -160 in a room of size 13x15 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -186 -10 -204 in a room of size 14x13 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -265 -10 -266 in a room of size 15x14 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -264 -10 -186 in a room of size 14x15 
+[2024-11-29 22:59:08] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -254 -10 -139 in a room of size 15x15 
+[2024-11-29 22:59:08] [INFO   ] Calculated structure at -1,-1 
+[2024-11-29 22:59:28] [INFO   ] Spawning DripstoneClusterCavePopulator at -80,35,-49 
+[2024-11-29 22:59:30] [INFO   ] Spawning LushClusterCavePopulator at -17,-2,-143 
+[2024-11-29 22:59:31] [INFO   ] Spawning CrystallineClusterCavePopulator at -106,-3,25 
+[2024-11-29 22:59:33] [INFO   ] Spawning FrozenCavePopulator at 127,23,-79 
+[2024-11-29 22:59:45] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -9,12 
+[2024-11-29 22:59:45] [INFO   ] Spawning shipwreck at -137, 21, 193 with rotation of WEST 
+[2024-11-29 22:59:57] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,-12 
+[2024-11-29 23:00:34] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -14,-10 
+[2024-11-29 23:00:34] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -14,5 
+[2024-11-29 23:04:04] [INFO   ]  Custom Logger Initialized 
+[2024-11-29 23:04:04] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-29 23:04:04] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-29 23:04:04] [INFO   ] Watchdog Thread hooked. 
+[2024-11-29 23:04:04] [INFO   ]  bStats Metrics enabled. 
+[2024-11-29 23:04:04] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-29 23:04:04] [INFO   ] Unfreezing biome registry... 
+[2024-11-29 23:04:04] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-29 23:04:04] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-29 23:04:04] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-29 23:04:04] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-29 23:04:04] [INFO   ] Freezing biome registry 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-29 23:04:04] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-29 23:04:05] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:04:05] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-29 23:04:05] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:04:05] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-29 23:04:05] [INFO   ] Java 14+ detected. 
+[2024-11-29 23:04:05] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-29 23:04:05] [INFO   ]  world loaded. 
+[2024-11-29 23:05:46] [INFO   ]  Custom Logger Initialized 
+[2024-11-29 23:05:46] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-29 23:05:46] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-29 23:05:46] [INFO   ] Watchdog Thread hooked. 
+[2024-11-29 23:05:46] [INFO   ]  bStats Metrics enabled. 
+[2024-11-29 23:05:46] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-29 23:05:46] [INFO   ] Unfreezing biome registry... 
+[2024-11-29 23:05:46] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-29 23:05:46] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-29 23:05:46] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-29 23:05:46] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-29 23:05:46] [INFO   ] Freezing biome registry 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-29 23:05:46] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-29 23:05:47] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:05:47] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-29 23:05:47] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:05:47] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-29 23:05:47] [INFO   ] Java 14+ detected. 
+[2024-11-29 23:05:47] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-29 23:05:48] [INFO   ]  world loaded. 
+[2024-11-29 23:15:11] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.RuinedPortalStructure invoked. 
+[2024-11-29 23:16:46] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-29 23:17:19] [INFO   ] Will spawn stronghold at: -626, -1261 
+[2024-11-29 23:17:19] [INFO   ] Spawning MossyCavePopulator at -240,36,16 
+[2024-11-29 23:17:19] [INFO   ] Spawning DeepCavePopulator at -240,-33,19 
+[2024-11-29 23:17:19] [INFO   ] Spawning CaveFluidClusterPopulator at -232,-30,39 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -174 -2 -167 in a room of size 13x15 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -232 -2 -209 in a room of size 15x13 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -161 -2 -160 in a room of size 13x15 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -264 -2 -186 in a room of size 14x15 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -211 -2 -235 in a room of size 14x13 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -186 -2 -204 in a room of size 14x13 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -157 -2 -183 in a room of size 14x15 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -265 -2 -266 in a room of size 15x14 
+[2024-11-29 23:17:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -254 -2 -139 in a room of size 15x15 
+[2024-11-29 23:17:20] [INFO   ] Calculated structure at -15,-1 
+[2024-11-29 23:17:25] [INFO   ] Minecart with chest at: -253, -2, -138 
+[2024-11-29 23:17:25] [INFO   ] Spawning DripstoneClusterCavePopulator at -253,17,-150 
+[2024-11-29 23:17:27] [INFO   ] Spawning LushClusterCavePopulator at -317,-8,-86 
+[2024-11-29 23:17:28] [INFO   ] Minecart with chest at: -230, -2, -186 
+[2024-11-29 23:17:33] [INFO   ] Minecart with chest at: -264, -2, -245 
+[2024-11-29 23:17:35] [INFO   ] Spawning CrystallineClusterCavePopulator at -287,4,-271 
+[2024-11-29 23:17:36] [INFO   ] Spawning FrozenCavePopulator at -336,3,-272 
+[2024-11-29 23:18:57] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-29 23:22:49] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-29 23:22:57] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-29 23:23:05] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-29 23:43:49] [INFO   ]  Custom Logger Initialized 
+[2024-11-29 23:43:49] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-29 23:43:49] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-29 23:43:49] [INFO   ] Watchdog Thread hooked. 
+[2024-11-29 23:43:49] [INFO   ]  bStats Metrics enabled. 
+[2024-11-29 23:43:49] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-29 23:43:49] [INFO   ] Unfreezing biome registry... 
+[2024-11-29 23:43:49] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-29 23:43:49] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-29 23:43:49] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-29 23:43:49] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-29 23:43:49] [INFO   ] Freezing biome registry 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-29 23:43:49] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-29 23:43:50] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:43:50] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-29 23:43:50] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:43:50] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-29 23:43:50] [INFO   ] Java 14+ detected. 
+[2024-11-29 23:43:50] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-29 23:43:50] [INFO   ]  world loaded. 
+[2024-11-29 23:51:21] [INFO   ]  Custom Logger Initialized 
+[2024-11-29 23:51:21] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-29 23:51:21] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-29 23:51:21] [INFO   ] Watchdog Thread hooked. 
+[2024-11-29 23:51:21] [INFO   ]  bStats Metrics enabled. 
+[2024-11-29 23:51:21] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-29 23:51:21] [INFO   ] Unfreezing biome registry... 
+[2024-11-29 23:51:21] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-29 23:51:21] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-29 23:51:21] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-29 23:51:21] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-29 23:51:21] [INFO   ] Freezing biome registry 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-29 23:51:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-29 23:51:23] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:51:23] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-29 23:51:23] [INFO   ] Creating TW instance: world - 7509934314106177142 
+[2024-11-29 23:51:23] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-29 23:51:23] [INFO   ] Java 14+ detected. 
+[2024-11-29 23:51:23] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-29 23:51:24] [INFO   ]  world loaded. 
+[2024-11-30 00:52:59] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 00:52:59] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 00:52:59] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 00:52:59] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 00:52:59] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 00:52:59] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 00:52:59] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 00:52:59] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 00:52:59] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 00:52:59] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 00:52:59] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 00:52:59] [INFO   ] Freezing biome registry 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 00:52:59] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 00:53:01] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 00:53:01] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 00:53:01] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 00:53:01] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 00:53:01] [INFO   ] Java 14+ detected. 
+[2024-11-30 00:53:01] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 00:53:03] [INFO   ]  world loaded. 
+[2024-11-30 00:53:31] [INFO   ] Will spawn stronghold at: 1407, -5 
+[2024-11-30 00:53:31] [INFO   ] Spawning MossyCavePopulator at -16,43,-16 
+[2024-11-30 00:53:31] [INFO   ] Large Cave at -192,9,-192 has water level > -31 with populator GenericLargeCavePopulator 
+[2024-11-30 00:53:31] [INFO   ] Calculated structure at -1,-1 
+[2024-11-30 00:53:34] [INFO   ] Spawning CaveFluidClusterPopulator at -7,-29,4 
+[2024-11-30 00:53:35] [INFO   ] Large Cave at 320,23,-192 has water level > -9 with populator LargeLushCavePopulator 
+[2024-11-30 00:53:35] [INFO   ] Calculated structure at 0,-1 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 281 8 319 in a room of size 13x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 390 8 298 in a room of size 13x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 353 8 277 in a room of size 14x15 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 381 8 255 in a room of size 13x14 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 326 8 368 in a room of size 13x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 386 8 351 in a room of size 15x14 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 326 8 245 in a room of size 13x15 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 281 8 303 in a room of size 15x15 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 394 8 383 in a room of size 13x15 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 315 23 308 in a room of size 14x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 281 23 303 in a room of size 15x6 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 384 23 277 in a room of size 15x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 357 23 288 in a room of size 15x14 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 281 23 319 in a room of size 13x6 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 326 23 368 in a room of size 13x5 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 390 23 298 in a room of size 13x5 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 312 23 266 in a room of size 14x13 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 381 23 255 in a room of size 13x5 
+[2024-11-30 00:53:35] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 263 23 371 in a room of size 13x13 
+[2024-11-30 00:53:35] [INFO   ] Calculated structure at 0,0 
+[2024-11-30 00:53:38] [INFO   ] Spawning CrystallineClusterCavePopulator at 26,48,19 
+[2024-11-30 00:53:38] [INFO   ] Spawning DeepCavePopulator at -112,-40,-48 
+[2024-11-30 00:53:39] [INFO   ] Spawning DripstoneClusterCavePopulator at -85,17,-71 
+[2024-11-30 00:53:40] [INFO   ] Spawning LushClusterCavePopulator at -22,-8,-126 
+[2024-11-30 00:58:22] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 00:58:22] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 00:58:22] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 00:58:22] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 00:58:22] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 00:58:22] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 00:58:22] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 00:58:22] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 00:58:22] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 00:58:22] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 00:58:22] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 00:58:22] [INFO   ] Freezing biome registry 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 00:58:22] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 00:58:24] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 00:58:24] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 00:58:24] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 00:58:24] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 00:58:24] [INFO   ] Java 14+ detected. 
+[2024-11-30 00:58:24] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 00:58:25] [INFO   ]  world loaded. 
+[2024-11-30 00:58:31] [INFO   ] Will spawn stronghold at: 1407, -5 
+[2024-11-30 00:58:39] [INFO   ] Spawning MossyCavePopulator at 0,34,-48 
+[2024-11-30 00:58:39] [INFO   ] Spawning CaveFluidClusterPopulator at 7,33,-44 
+[2024-11-30 00:58:39] [INFO   ] Spawning DeepCavePopulator at 13,-33,-39 
+[2024-11-30 00:58:39] [INFO   ] Large Cave at 320,23,-192 has water level > -9 with populator LargeLushCavePopulator 
+[2024-11-30 00:58:40] [INFO   ] Calculated structure at 0,-3 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 281 -8 319 in a room of size 13x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 326 -8 245 in a room of size 13x15 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 281 -8 303 in a room of size 15x15 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 390 -8 298 in a room of size 13x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 386 -8 351 in a room of size 15x14 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 394 -8 383 in a room of size 13x15 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 326 -8 368 in a room of size 13x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 381 -8 255 in a room of size 13x14 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 353 -8 277 in a room of size 14x15 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 390 7 298 in a room of size 13x5 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 394 7 383 in a room of size 13x6 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 381 7 255 in a room of size 13x5 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 315 7 308 in a room of size 14x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 357 7 288 in a room of size 15x14 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 281 7 303 in a room of size 15x6 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 263 7 371 in a room of size 13x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 384 7 277 in a room of size 15x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 312 7 266 in a room of size 14x13 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 386 7 351 in a room of size 15x7 
+[2024-11-30 00:58:43] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 281 7 319 in a room of size 13x6 
+[2024-11-30 00:58:43] [INFO   ] Calculated structure at 0,2 
+[2024-11-30 00:58:44] [INFO   ] Spawning DripstoneClusterCavePopulator at 18,3,51 
+[2024-11-30 00:58:46] [INFO   ] Large Cave at -192,9,-192 has water level > -31 with populator GenericLargeCavePopulator 
+[2024-11-30 00:58:46] [INFO   ] Calculated structure at -10,-10 
+[2024-11-30 00:58:48] [INFO   ] Spawning FrozenCavePopulator at -160,57,-117 
+[2024-11-30 00:58:48] [INFO   ] Spawning LushClusterCavePopulator at -149,-9,-72 
+[2024-11-30 00:58:51] [INFO   ] Spawning CrystallineClusterCavePopulator at -169,76,-118 
+[2024-11-30 01:15:30] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-30 01:15:42] [INFO   ] Vanilla locate for net.minecraft.world.level.levelgen.structure.structures.JigsawStructure invoked. 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -142 15 764 in a room of size 15x14 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -169 15 818 in a room of size 15x15 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -186 15 844 in a room of size 15x14 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -118 15 829 in a room of size 14x13 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -236 15 859 in a room of size 13x14 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -173 15 764 in a room of size 13x13 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -195 15 774 in a room of size 15x15 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -181 15 874 in a room of size 13x13 
+[2024-11-30 01:24:27] [INFO   ] Calculated structure at -1,32 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 246 -7 817 in a room of size 14x13 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 368 -7 902 in a room of size 14x13 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 389 -7 861 in a room of size 15x13 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 332 -7 811 in a room of size 14x15 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 314 -7 880 in a room of size 13x14 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 285 -7 759 in a room of size 15x15 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 265 -7 858 in a room of size 15x14 
+[2024-11-30 01:24:27] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 378 -7 815 in a room of size 15x13 
+[2024-11-30 01:24:27] [INFO   ] Calculated structure at 0,32 
+[2024-11-30 01:24:37] [INFO   ] Minecart with chest at: 347, 7, 369 
+[2024-11-30 01:24:38] [INFO   ] Minecart with chest at: 393, 7, 270 
+[2024-11-30 01:24:39] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 20,20 
+[2024-11-30 01:24:46] [INFO   ] Large Cave at 832,18,320 has water level > -27 with populator LargeLushCavePopulator 
+[2024-11-30 01:24:46] [INFO   ] Calculated structure at 32,30 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 861 30 783 in a room of size 13x13 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 885 30 814 in a room of size 15x15 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 809 30 778 in a room of size 14x13 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 905 30 877 in a room of size 13x13 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 788 30 842 in a room of size 15x15 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 863 30 898 in a room of size 14x13 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 846 30 814 in a room of size 15x15 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 907 30 809 in a room of size 15x13 
+[2024-11-30 01:24:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 870 30 847 in a room of size 15x13 
+[2024-11-30 01:24:46] [INFO   ] Calculated structure at 32,32 
+[2024-11-30 01:24:54] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 18,8 
+[2024-11-30 01:24:54] [INFO   ] Spawning Underground Dungeon at 289,10,129 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 819 29 -180 in a room of size 13x14 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 768 29 -201 in a room of size 13x15 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 773 29 -128 in a room of size 15x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 873 29 -241 in a room of size 14x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 887 29 -156 in a room of size 15x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 822 29 -205 in a room of size 13x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 900 29 -175 in a room of size 15x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 888 29 -239 in a room of size 15x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 851 44 -203 in a room of size 14x15 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 863 44 -148 in a room of size 15x14 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 819 44 -180 in a room of size 13x6 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 887 44 -156 in a room of size 15x5 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 888 44 -197 in a room of size 15x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 800 44 -199 in a room of size 14x13 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 781 44 -243 in a room of size 13x14 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 809 44 -232 in a room of size 13x14 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 822 44 -205 in a room of size 13x6 
+[2024-11-30 01:25:00] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 768 44 -201 in a room of size 13x7 
+[2024-11-30 01:25:00] [INFO   ] Calculated structure at 32,-1 
+[2024-11-30 01:25:26] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,20 
+[2024-11-30 01:25:33] [INFO   ] Large Cave at 1344,22,320 has water level > -5 with populator MushroomCavePopulator 
+[2024-11-30 01:25:33] [INFO   ] Calculated structure at 64,25 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1323 12 897 in a room of size 15x15 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 1316 12 824 in a room of size 15x15 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 1397 12 762 in a room of size 13x13 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1287 12 827 in a room of size 13x14 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1297 12 868 in a room of size 14x14 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 1329 12 804 in a room of size 13x15 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1322 12 872 in a room of size 13x14 
+[2024-11-30 01:25:33] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 1383 12 793 in a room of size 15x15 
+[2024-11-30 01:25:33] [INFO   ] Calculated structure at 64,32 
+[2024-11-30 01:25:48] [INFO   ] Large Cave at 832,3,-704 has water level > -26 with populator MushroomCavePopulator 
+[2024-11-30 01:25:48] [INFO   ] Calculated structure at 33,-33 
+[2024-11-30 01:25:49] [INFO   ] Large Cave at 320,17,-704 has water level > -16 with populator GenericLargeCavePopulator 
+[2024-11-30 01:25:49] [INFO   ] Calculated structure at 31,-33 
+[2024-11-30 01:26:08] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 43,-8 
+[2024-11-30 01:26:08] [INFO   ] Spawning Underground Dungeon at 695,10,-120 
+[2024-11-30 01:26:10] [INFO   ] Minecart with chest at: 771, 29, -164 
+[2024-11-30 01:26:14] [INFO   ] Minecart with chest at: 873, 29, -220 
+[2024-11-30 01:26:14] [INFO   ] Minecart with chest at: 842, 44, -180 
+[2024-11-30 01:26:16] [INFO   ] Minecart with chest at: 850, 29, -126 
+[2024-11-30 01:26:17] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 52,-12 
+[2024-11-30 01:26:37] [INFO   ] Large Cave at 1344,34,-704 has water level > -10 with populator LargeLushCavePopulator 
+[2024-11-30 01:26:37] [INFO   ] Calculated structure at 64,-33 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -193 26 -761 in a room of size 14x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -227 26 -726 in a room of size 14x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -158 26 -758 in a room of size 13x14 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -144 26 -659 in a room of size 14x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -237 26 -631 in a room of size 13x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -162 26 -710 in a room of size 14x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -179 26 -656 in a room of size 14x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -147 26 -636 in a room of size 13x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -216 26 -661 in a room of size 14x14 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -147 41 -636 in a room of size 13x7 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -259 41 -765 in a room of size 14x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -230 41 -754 in a room of size 14x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -144 41 -659 in a room of size 14x5 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -219 41 -633 in a room of size 14x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -119 41 -633 in a room of size 14x14 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -206 41 -661 in a room of size 13x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -193 41 -761 in a room of size 14x6 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -248 41 -697 in a room of size 15x15 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -235 41 -738 in a room of size 15x13 
+[2024-11-30 01:26:38] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -134 41 -740 in a room of size 15x13 
+[2024-11-30 01:26:38] [INFO   ] Calculated structure at -1,-33 
+[2024-11-30 01:26:58] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 20,-12 
+[2024-11-30 01:48:07] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 01:48:08] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 01:48:08] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 01:48:08] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 01:48:08] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 01:48:08] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 01:48:08] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 01:48:08] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 01:48:08] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 01:48:08] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 01:48:08] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 01:48:08] [INFO   ] Freezing biome registry 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 01:48:08] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 01:48:11] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 01:48:12] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 01:48:12] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 01:48:12] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 01:48:12] [INFO   ] Java 14+ detected. 
+[2024-11-30 01:48:12] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 01:48:13] [INFO   ]  world loaded. 
+[2024-11-30 03:45:25] [INFO   ] Will spawn stronghold at: 1407, -5 
+[2024-11-30 03:45:25] [INFO   ] Spawning DeepCavePopulator at -32,-43,-208 
+[2024-11-30 03:45:25] [INFO   ] Spawning MossyCavePopulator at -32,9,-207 
+[2024-11-30 03:45:26] [INFO   ] Large Cave at -192,9,-192 has water level > -31 with populator GenericLargeCavePopulator 
+[2024-11-30 03:45:26] [INFO   ] Calculated structure at -2,-13 
+[2024-11-30 03:45:26] [INFO   ] Spawning CaveFluidClusterPopulator at -128,41,-201 
+[2024-11-30 03:46:47] [INFO   ] Spawning LushClusterCavePopulator at -119,41,-212 
+[2024-11-30 03:48:09] [INFO   ] Spawning FrozenCavePopulator at -208,33,-112 
+[2024-11-30 03:48:09] [INFO   ] Spawning CrystallineClusterCavePopulator at -201,1,-98 
+[2024-11-30 03:49:03] [INFO   ] Spawning DripstoneClusterCavePopulator at -194,24,86 
+[2024-11-30 03:49:46] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,-12 
+[2024-11-30 07:15:20] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 07:15:20] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 07:15:20] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 07:15:20] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 07:15:20] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 07:15:20] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 07:15:20] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 07:15:20] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 07:15:20] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 07:15:20] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 07:15:20] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 07:15:20] [INFO   ] Freezing biome registry 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 07:15:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 07:15:28] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 07:15:29] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 07:15:29] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 07:15:29] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 07:15:29] [INFO   ] Java 14+ detected. 
+[2024-11-30 07:15:29] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 07:15:31] [INFO   ]  world loaded. 
+[2024-11-30 17:13:10] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 17:13:10] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 17:13:10] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 17:13:10] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 17:13:10] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 17:13:11] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 17:13:11] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 17:13:11] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 17:13:11] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 17:13:11] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 17:13:11] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 17:13:11] [INFO   ] Freezing biome registry 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 17:13:11] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 17:13:15] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 17:13:16] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 17:13:16] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 17:13:16] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 17:13:16] [INFO   ] Java 14+ detected. 
+[2024-11-30 17:13:16] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 17:13:17] [INFO   ]  world loaded. 
+[2024-11-30 21:09:54] [INFO   ]  Custom Logger Initialized 
+[2024-11-30 21:09:55] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-11-30 21:09:55] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-11-30 21:09:55] [INFO   ] Watchdog Thread hooked. 
+[2024-11-30 21:09:55] [INFO   ]  bStats Metrics enabled. 
+[2024-11-30 21:09:55] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-11-30 21:09:55] [INFO   ] Unfreezing biome registry... 
+[2024-11-30 21:09:55] [INFO   ] Registered custom biome: muddy_bog 
+[2024-11-30 21:09:55] [INFO   ] Registered custom biome: cherry_grove 
+[2024-11-30 21:09:55] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-11-30 21:09:55] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-11-30 21:09:55] [INFO   ] Freezing biome registry 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-11-30 21:09:55] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-11-30 21:09:59] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 21:09:59] [INFO   ]  Detected world: world, commencing injection...  
+[2024-11-30 21:09:59] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-11-30 21:09:59] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-11-30 21:09:59] [INFO   ] Java 14+ detected. 
+[2024-11-30 21:09:59] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-11-30 21:10:01] [INFO   ]  world loaded. 
+[2024-12-02 00:34:01] [INFO   ]  Custom Logger Initialized 
+[2024-12-02 00:34:01] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-02 00:34:01] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-02 00:34:01] [INFO   ] Watchdog Thread hooked. 
+[2024-12-02 00:34:01] [INFO   ]  bStats Metrics enabled. 
+[2024-12-02 00:34:01] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-02 00:34:01] [INFO   ] Unfreezing biome registry... 
+[2024-12-02 00:34:01] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-02 00:34:01] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-02 00:34:01] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-02 00:34:01] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-02 00:34:01] [INFO   ] Freezing biome registry 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-02 00:34:01] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-02 00:34:05] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 00:34:06] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-02 00:34:06] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 00:34:06] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-02 00:34:06] [INFO   ] Java 14+ detected. 
+[2024-12-02 00:34:06] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-02 00:34:07] [INFO   ]  world loaded. 
+[2024-12-02 22:27:24] [INFO   ]  Custom Logger Initialized 
+[2024-12-02 22:27:24] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-02 22:27:24] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-02 22:27:24] [INFO   ] Watchdog Thread hooked. 
+[2024-12-02 22:27:24] [INFO   ]  bStats Metrics enabled. 
+[2024-12-02 22:27:24] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-02 22:27:24] [INFO   ] Unfreezing biome registry... 
+[2024-12-02 22:27:24] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-02 22:27:24] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-02 22:27:24] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-02 22:27:24] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-02 22:27:24] [INFO   ] Freezing biome registry 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-02 22:27:24] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-02 22:27:27] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 22:27:28] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-02 22:27:28] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 22:27:28] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-02 22:27:28] [INFO   ] Java 14+ detected. 
+[2024-12-02 22:27:28] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-02 22:27:35] [INFO   ]  world loaded. 
+[2024-12-02 23:29:50] [INFO   ]  Custom Logger Initialized 
+[2024-12-02 23:29:50] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-02 23:29:51] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-02 23:29:51] [INFO   ] Watchdog Thread hooked. 
+[2024-12-02 23:29:51] [INFO   ]  bStats Metrics enabled. 
+[2024-12-02 23:29:51] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-02 23:29:51] [INFO   ] Unfreezing biome registry... 
+[2024-12-02 23:29:51] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-02 23:29:51] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-02 23:29:51] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-02 23:29:51] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-02 23:29:51] [INFO   ] Freezing biome registry 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-02 23:29:51] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-02 23:29:53] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:29:54] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-02 23:29:54] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:29:54] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-02 23:29:54] [INFO   ] Java 14+ detected. 
+[2024-12-02 23:29:54] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-02 23:29:54] [INFO   ]  world loaded. 
+[2024-12-02 23:37:35] [INFO   ]  Custom Logger Initialized 
+[2024-12-02 23:37:35] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-02 23:37:35] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-02 23:37:35] [INFO   ] Watchdog Thread hooked. 
+[2024-12-02 23:37:35] [INFO   ]  bStats Metrics enabled. 
+[2024-12-02 23:37:35] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-02 23:37:35] [INFO   ] Unfreezing biome registry... 
+[2024-12-02 23:37:35] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-02 23:37:35] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-02 23:37:35] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-02 23:37:35] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-02 23:37:35] [INFO   ] Freezing biome registry 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-02 23:37:35] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-02 23:37:37] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:37:38] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-02 23:37:38] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:37:38] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-02 23:37:38] [INFO   ] Java 14+ detected. 
+[2024-12-02 23:37:38] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-02 23:37:38] [INFO   ]  world loaded. 
+[2024-12-02 23:41:38] [INFO   ]  Custom Logger Initialized 
+[2024-12-02 23:41:38] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-02 23:41:38] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-02 23:41:38] [INFO   ] Watchdog Thread hooked. 
+[2024-12-02 23:41:38] [INFO   ]  bStats Metrics enabled. 
+[2024-12-02 23:41:38] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-02 23:41:38] [INFO   ] Unfreezing biome registry... 
+[2024-12-02 23:41:38] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-02 23:41:38] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-02 23:41:38] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-02 23:41:38] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-02 23:41:38] [INFO   ] Freezing biome registry 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-02 23:41:38] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-02 23:41:40] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:41:40] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-02 23:41:40] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-02 23:41:40] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-02 23:41:40] [INFO   ] Java 14+ detected. 
+[2024-12-02 23:41:40] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-02 23:41:41] [INFO   ]  world loaded. 
+[2024-12-03 03:08:24] [INFO   ]  Custom Logger Initialized 
+[2024-12-03 03:08:24] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-03 03:08:24] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-03 03:08:24] [INFO   ] Watchdog Thread hooked. 
+[2024-12-03 03:08:24] [INFO   ]  bStats Metrics enabled. 
+[2024-12-03 03:08:24] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-03 03:08:24] [INFO   ] Unfreezing biome registry... 
+[2024-12-03 03:08:24] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-03 03:08:24] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-03 03:08:24] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-03 03:08:24] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-03 03:08:24] [INFO   ] Freezing biome registry 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-03 03:08:24] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-03 03:08:25] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-03 03:08:26] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-03 03:08:26] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-03 03:08:26] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-03 03:08:26] [INFO   ] Java 14+ detected. 
+[2024-12-03 03:08:26] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-03 03:08:27] [INFO   ]  world loaded. 
+[2024-12-03 04:30:21] [INFO   ]  Custom Logger Initialized 
+[2024-12-03 04:30:21] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-03 04:30:21] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-03 04:30:21] [INFO   ] Watchdog Thread hooked. 
+[2024-12-03 04:30:21] [INFO   ]  bStats Metrics enabled. 
+[2024-12-03 04:30:21] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-03 04:30:21] [INFO   ] Unfreezing biome registry... 
+[2024-12-03 04:30:21] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-03 04:30:21] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-03 04:30:21] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-03 04:30:21] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-03 04:30:21] [INFO   ] Freezing biome registry 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-03 04:30:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-03 04:30:23] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-03 04:30:23] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-03 04:30:23] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-03 04:30:23] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-03 04:30:23] [INFO   ] Java 14+ detected. 
+[2024-12-03 04:30:23] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-03 04:30:24] [INFO   ]  world loaded. 
+[2024-12-04 04:07:17] [INFO   ]  Custom Logger Initialized 
+[2024-12-04 04:07:17] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-04 04:07:17] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-04 04:07:17] [INFO   ] Watchdog Thread hooked. 
+[2024-12-04 04:07:17] [INFO   ]  bStats Metrics enabled. 
+[2024-12-04 04:07:17] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-04 04:07:18] [INFO   ] Unfreezing biome registry... 
+[2024-12-04 04:07:18] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-04 04:07:18] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-04 04:07:18] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-04 04:07:18] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-04 04:07:18] [INFO   ] Freezing biome registry 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-04 04:07:18] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-04 04:07:20] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-04 04:07:20] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-04 04:07:20] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-04 04:07:20] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-04 04:07:20] [INFO   ] Java 14+ detected. 
+[2024-12-04 04:07:20] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-04 04:07:23] [INFO   ]  world loaded. 
+[2024-12-05 00:35:39] [INFO   ]  Custom Logger Initialized 
+[2024-12-05 00:35:39] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-05 00:35:39] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-05 00:35:39] [INFO   ] Watchdog Thread hooked. 
+[2024-12-05 00:35:39] [INFO   ]  bStats Metrics enabled. 
+[2024-12-05 00:35:39] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-05 00:35:39] [INFO   ] Unfreezing biome registry... 
+[2024-12-05 00:35:39] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-05 00:35:39] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-05 00:35:39] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-05 00:35:39] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-05 00:35:39] [INFO   ] Freezing biome registry 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-05 00:35:39] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-05 00:35:41] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 00:35:41] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-05 00:35:41] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 00:35:41] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-05 00:35:41] [INFO   ] Java 14+ detected. 
+[2024-12-05 00:35:41] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-05 00:35:42] [INFO   ]  world loaded. 
+[2024-12-05 04:59:33] [INFO   ]  Custom Logger Initialized 
+[2024-12-05 04:59:33] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-05 04:59:33] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-05 04:59:33] [INFO   ] Watchdog Thread hooked. 
+[2024-12-05 04:59:33] [INFO   ]  bStats Metrics enabled. 
+[2024-12-05 04:59:33] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-05 04:59:33] [INFO   ] Unfreezing biome registry... 
+[2024-12-05 04:59:33] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-05 04:59:33] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-05 04:59:33] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-05 04:59:33] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-05 04:59:33] [INFO   ] Freezing biome registry 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-05 04:59:33] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-05 04:59:35] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 04:59:36] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-05 04:59:36] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 04:59:36] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-05 04:59:36] [INFO   ] Java 14+ detected. 
+[2024-12-05 04:59:36] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-05 04:59:36] [INFO   ]  world loaded. 
+[2024-12-05 21:27:28] [INFO   ]  Custom Logger Initialized 
+[2024-12-05 21:27:29] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-05 21:27:29] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-05 21:27:29] [INFO   ] Watchdog Thread hooked. 
+[2024-12-05 21:27:29] [INFO   ]  bStats Metrics enabled. 
+[2024-12-05 21:27:29] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-05 21:27:29] [INFO   ] Unfreezing biome registry... 
+[2024-12-05 21:27:29] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-05 21:27:29] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-05 21:27:29] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-05 21:27:29] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-05 21:27:29] [INFO   ] Freezing biome registry 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-05 21:27:29] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-05 21:27:30] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 21:27:30] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-05 21:27:30] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 21:27:30] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-05 21:27:30] [INFO   ] Java 14+ detected. 
+[2024-12-05 21:27:30] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-05 21:27:31] [INFO   ]  world loaded. 
+[2024-12-05 23:36:40] [INFO   ]  Custom Logger Initialized 
+[2024-12-05 23:36:40] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-05 23:36:40] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-05 23:36:40] [INFO   ] Watchdog Thread hooked. 
+[2024-12-05 23:36:40] [INFO   ]  bStats Metrics enabled. 
+[2024-12-05 23:36:40] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-05 23:36:40] [INFO   ] Unfreezing biome registry... 
+[2024-12-05 23:36:40] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-05 23:36:40] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-05 23:36:40] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-05 23:36:40] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-05 23:36:40] [INFO   ] Freezing biome registry 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-05 23:36:40] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-05 23:36:41] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 23:36:41] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-05 23:36:41] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 23:36:41] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-05 23:36:42] [INFO   ] Java 14+ detected. 
+[2024-12-05 23:36:42] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-05 23:36:42] [INFO   ]  world loaded. 
+[2024-12-05 23:50:19] [INFO   ]  Custom Logger Initialized 
+[2024-12-05 23:50:19] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-05 23:50:19] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-05 23:50:19] [INFO   ] Watchdog Thread hooked. 
+[2024-12-05 23:50:19] [INFO   ]  bStats Metrics enabled. 
+[2024-12-05 23:50:19] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-05 23:50:19] [INFO   ] Unfreezing biome registry... 
+[2024-12-05 23:50:19] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-05 23:50:19] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-05 23:50:19] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-05 23:50:19] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-05 23:50:19] [INFO   ] Freezing biome registry 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-05 23:50:19] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-05 23:50:20] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 23:50:20] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-05 23:50:20] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-05 23:50:20] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-05 23:50:20] [INFO   ] Java 14+ detected. 
+[2024-12-05 23:50:20] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-05 23:50:21] [INFO   ]  world loaded. 
+[2024-12-06 00:31:48] [INFO   ]  Custom Logger Initialized 
+[2024-12-06 00:31:48] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-06 00:31:48] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-06 00:31:48] [INFO   ] Watchdog Thread hooked. 
+[2024-12-06 00:31:48] [INFO   ]  bStats Metrics enabled. 
+[2024-12-06 00:31:48] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-06 00:31:48] [INFO   ] Unfreezing biome registry... 
+[2024-12-06 00:31:48] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-06 00:31:48] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-06 00:31:48] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-06 00:31:48] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-06 00:31:48] [INFO   ] Freezing biome registry 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-06 00:31:48] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-06 00:31:49] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 00:31:50] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-06 00:31:50] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 00:31:50] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-06 00:31:50] [INFO   ] Java 14+ detected. 
+[2024-12-06 00:31:50] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-06 00:31:51] [INFO   ]  world loaded. 
+[2024-12-06 00:49:19] [INFO   ]  Custom Logger Initialized 
+[2024-12-06 00:49:19] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-06 00:49:19] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-06 00:49:19] [INFO   ] Watchdog Thread hooked. 
+[2024-12-06 00:49:19] [INFO   ]  bStats Metrics enabled. 
+[2024-12-06 00:49:19] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-06 00:49:19] [INFO   ] Unfreezing biome registry... 
+[2024-12-06 00:49:19] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-06 00:49:19] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-06 00:49:19] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-06 00:49:19] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-06 00:49:19] [INFO   ] Freezing biome registry 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-06 00:49:19] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-06 00:49:20] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 00:49:21] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-06 00:49:21] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 00:49:21] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-06 00:49:21] [INFO   ] Java 14+ detected. 
+[2024-12-06 00:49:21] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-06 00:49:21] [INFO   ]  world loaded. 
+[2024-12-06 01:36:30] [INFO   ]  Custom Logger Initialized 
+[2024-12-06 01:36:30] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-06 01:36:30] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-06 01:36:30] [INFO   ] Watchdog Thread hooked. 
+[2024-12-06 01:36:30] [INFO   ]  bStats Metrics enabled. 
+[2024-12-06 01:36:30] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-06 01:36:30] [INFO   ] Unfreezing biome registry... 
+[2024-12-06 01:36:30] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-06 01:36:30] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-06 01:36:30] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-06 01:36:30] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-06 01:36:30] [INFO   ] Freezing biome registry 
+[2024-12-06 01:36:30] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-06 01:36:30] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-06 01:36:30] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-06 01:36:31] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-06 01:36:32] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 01:36:33] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-06 01:36:33] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 01:36:33] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-06 01:36:33] [INFO   ] Java 14+ detected. 
+[2024-12-06 01:36:33] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-06 01:36:33] [INFO   ]  world loaded. 
+[2024-12-06 23:01:33] [INFO   ]  Custom Logger Initialized 
+[2024-12-06 23:01:33] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-06 23:01:33] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-06 23:01:33] [INFO   ] Watchdog Thread hooked. 
+[2024-12-06 23:01:33] [INFO   ]  bStats Metrics enabled. 
+[2024-12-06 23:01:33] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-06 23:01:33] [INFO   ] Unfreezing biome registry... 
+[2024-12-06 23:01:33] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-06 23:01:33] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-06 23:01:33] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-06 23:01:33] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-06 23:01:33] [INFO   ] Freezing biome registry 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-06 23:01:33] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-06 23:01:35] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 23:01:35] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-06 23:01:35] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 23:01:35] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-06 23:01:35] [INFO   ] Java 14+ detected. 
+[2024-12-06 23:01:35] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-06 23:01:36] [INFO   ]  world loaded. 
+[2024-12-06 23:21:23] [INFO   ]  Custom Logger Initialized 
+[2024-12-06 23:21:23] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-06 23:21:23] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-06 23:21:23] [INFO   ] Watchdog Thread hooked. 
+[2024-12-06 23:21:23] [INFO   ]  bStats Metrics enabled. 
+[2024-12-06 23:21:23] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-06 23:21:23] [INFO   ] Unfreezing biome registry... 
+[2024-12-06 23:21:23] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-06 23:21:23] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-06 23:21:23] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-06 23:21:23] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-06 23:21:23] [INFO   ] Freezing biome registry 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-06 23:21:23] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-06 23:21:24] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 23:21:25] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-06 23:21:25] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-06 23:21:25] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-06 23:21:25] [INFO   ] Java 14+ detected. 
+[2024-12-06 23:21:25] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-06 23:21:25] [INFO   ]  world loaded. 
+[2024-12-07 01:36:46] [INFO   ]  Custom Logger Initialized 
+[2024-12-07 01:36:46] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-07 01:36:46] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-07 01:36:46] [INFO   ] Watchdog Thread hooked. 
+[2024-12-07 01:36:46] [INFO   ]  bStats Metrics enabled. 
+[2024-12-07 01:36:46] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-07 01:36:46] [INFO   ] Unfreezing biome registry... 
+[2024-12-07 01:36:46] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-07 01:36:46] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-07 01:36:46] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-07 01:36:46] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-07 01:36:46] [INFO   ] Freezing biome registry 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-07 01:36:46] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-07 01:36:48] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 01:36:49] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-07 01:36:49] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 01:36:49] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-07 01:36:49] [INFO   ] Java 14+ detected. 
+[2024-12-07 01:36:49] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-07 01:36:50] [INFO   ]  world loaded. 
+[2024-12-07 02:01:45] [INFO   ]  Custom Logger Initialized 
+[2024-12-07 02:01:45] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-07 02:01:45] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-07 02:01:45] [INFO   ] Watchdog Thread hooked. 
+[2024-12-07 02:01:45] [INFO   ]  bStats Metrics enabled. 
+[2024-12-07 02:01:45] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-07 02:01:45] [INFO   ] Unfreezing biome registry... 
+[2024-12-07 02:01:45] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-07 02:01:45] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-07 02:01:45] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-07 02:01:45] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-07 02:01:45] [INFO   ] Freezing biome registry 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-07 02:01:45] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-07 02:01:47] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 02:01:47] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-07 02:01:47] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 02:01:47] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-07 02:01:47] [INFO   ] Java 14+ detected. 
+[2024-12-07 02:01:47] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-07 02:01:48] [INFO   ]  world loaded. 
+[2024-12-07 03:55:24] [INFO   ]  Custom Logger Initialized 
+[2024-12-07 03:55:24] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-07 03:55:24] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-07 03:55:24] [INFO   ] Watchdog Thread hooked. 
+[2024-12-07 03:55:24] [INFO   ]  bStats Metrics enabled. 
+[2024-12-07 03:55:24] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-07 03:55:24] [INFO   ] Unfreezing biome registry... 
+[2024-12-07 03:55:24] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-07 03:55:24] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-07 03:55:24] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-07 03:55:24] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-07 03:55:24] [INFO   ] Freezing biome registry 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-07 03:55:24] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-07 03:55:26] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 03:55:26] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-07 03:55:26] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 03:55:26] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-07 03:55:26] [INFO   ] Java 14+ detected. 
+[2024-12-07 03:55:26] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-07 03:55:27] [INFO   ]  world loaded. 
+[2024-12-07 04:43:17] [INFO   ]  Custom Logger Initialized 
+[2024-12-07 04:43:17] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-07 04:43:17] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-07 04:43:17] [INFO   ] Watchdog Thread hooked. 
+[2024-12-07 04:43:17] [INFO   ]  bStats Metrics enabled. 
+[2024-12-07 04:43:17] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-07 04:43:17] [INFO   ] Unfreezing biome registry... 
+[2024-12-07 04:43:17] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-07 04:43:17] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-07 04:43:17] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-07 04:43:17] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-07 04:43:17] [INFO   ] Freezing biome registry 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-07 04:43:17] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-07 04:43:18] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 04:43:19] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-07 04:43:19] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 04:43:19] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-07 04:43:19] [INFO   ] Java 14+ detected. 
+[2024-12-07 04:43:19] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-07 04:43:19] [INFO   ]  world loaded. 
+[2024-12-07 18:12:31] [INFO   ]  Custom Logger Initialized 
+[2024-12-07 18:12:31] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-07 18:12:31] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-07 18:12:31] [INFO   ] Watchdog Thread hooked. 
+[2024-12-07 18:12:31] [INFO   ]  bStats Metrics enabled. 
+[2024-12-07 18:12:31] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-07 18:12:31] [INFO   ] Unfreezing biome registry... 
+[2024-12-07 18:12:31] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-07 18:12:31] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-07 18:12:31] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-07 18:12:31] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-07 18:12:31] [INFO   ] Freezing biome registry 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-07 18:12:31] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-07 18:12:33] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 18:12:33] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-07 18:12:33] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-07 18:12:33] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-07 18:12:33] [INFO   ] Java 14+ detected. 
+[2024-12-07 18:12:33] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-07 18:12:34] [INFO   ]  world loaded. 
+[2024-12-08 02:06:10] [INFO   ]  Custom Logger Initialized 
+[2024-12-08 02:06:10] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-08 02:06:10] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-08 02:06:10] [INFO   ] Watchdog Thread hooked. 
+[2024-12-08 02:06:10] [INFO   ]  bStats Metrics enabled. 
+[2024-12-08 02:06:10] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-08 02:06:10] [INFO   ] Unfreezing biome registry... 
+[2024-12-08 02:06:10] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-08 02:06:10] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-08 02:06:10] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-08 02:06:10] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-08 02:06:10] [INFO   ] Freezing biome registry 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-08 02:06:10] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-08 02:06:12] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-08 02:06:12] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-08 02:06:12] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-08 02:06:12] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-08 02:06:12] [INFO   ] Java 14+ detected. 
+[2024-12-08 02:06:12] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-08 02:06:13] [INFO   ]  world loaded. 
+[2024-12-08 05:02:30] [INFO   ]  Custom Logger Initialized 
+[2024-12-08 05:02:30] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-08 05:02:30] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-08 05:02:30] [INFO   ] Watchdog Thread hooked. 
+[2024-12-08 05:02:30] [INFO   ]  bStats Metrics enabled. 
+[2024-12-08 05:02:30] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-08 05:02:30] [INFO   ] Unfreezing biome registry... 
+[2024-12-08 05:02:30] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-08 05:02:30] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-08 05:02:30] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-08 05:02:30] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-08 05:02:30] [INFO   ] Freezing biome registry 
+[2024-12-08 05:02:30] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-08 05:02:30] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-08 05:02:30] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-08 05:02:31] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-08 05:02:32] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-08 05:02:32] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-08 05:02:32] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-08 05:02:32] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-08 05:02:32] [INFO   ] Java 14+ detected. 
+[2024-12-08 05:02:32] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-08 05:02:33] [INFO   ]  world loaded. 
+[2024-12-10 01:44:21] [INFO   ]  Custom Logger Initialized 
+[2024-12-10 01:44:21] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-10 01:44:21] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-10 01:44:21] [INFO   ] Watchdog Thread hooked. 
+[2024-12-10 01:44:21] [INFO   ]  bStats Metrics enabled. 
+[2024-12-10 01:44:21] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-10 01:44:21] [INFO   ] Unfreezing biome registry... 
+[2024-12-10 01:44:21] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-10 01:44:21] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-10 01:44:21] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-10 01:44:21] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-10 01:44:21] [INFO   ] Freezing biome registry 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-10 01:44:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-10 01:44:24] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-10 01:44:24] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-10 01:44:24] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-10 01:44:24] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-10 01:44:24] [INFO   ] Java 14+ detected. 
+[2024-12-10 01:44:24] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-10 01:44:25] [INFO   ]  world loaded. 
+[2024-12-10 23:22:02] [INFO   ]  Custom Logger Initialized 
+[2024-12-10 23:22:02] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-10 23:22:02] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-10 23:22:02] [INFO   ] Watchdog Thread hooked. 
+[2024-12-10 23:22:02] [INFO   ]  bStats Metrics enabled. 
+[2024-12-10 23:22:02] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-10 23:22:02] [INFO   ] Unfreezing biome registry... 
+[2024-12-10 23:22:02] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-10 23:22:02] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-10 23:22:02] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-10 23:22:02] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-10 23:22:02] [INFO   ] Freezing biome registry 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-10 23:22:02] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-10 23:22:03] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-10 23:22:05] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-10 23:22:05] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-10 23:22:05] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-10 23:22:05] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-10 23:22:05] [INFO   ] Java 14+ detected. 
+[2024-12-10 23:22:05] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-10 23:22:06] [INFO   ]  world loaded. 
+[2024-12-10 23:58:29] [INFO   ] Will spawn stronghold at: 1407, -5 
+[2024-12-10 23:58:29] [INFO   ] Spawning MossyCavePopulator at -208,-20,130 
+[2024-12-10 23:58:29] [INFO   ] Spawning CaveFluidClusterPopulator at -193,2,157 
+[2024-12-10 23:58:29] [INFO   ] Spawning DeepCavePopulator at -208,-34,165 
+[2024-12-11 04:47:21] [INFO   ]  Custom Logger Initialized 
+[2024-12-11 04:47:21] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-11 04:47:21] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-11 04:47:21] [INFO   ] Watchdog Thread hooked. 
+[2024-12-11 04:47:21] [INFO   ]  bStats Metrics enabled. 
+[2024-12-11 04:47:21] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-11 04:47:21] [INFO   ] Unfreezing biome registry... 
+[2024-12-11 04:47:21] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-11 04:47:21] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-11 04:47:21] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-11 04:47:21] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-11 04:47:21] [INFO   ] Freezing biome registry 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-11 04:47:21] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-11 04:47:23] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-11 04:47:23] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-11 04:47:23] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-11 04:47:23] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-11 04:47:23] [INFO   ] Java 14+ detected. 
+[2024-12-11 04:47:23] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-11 04:47:24] [INFO   ]  world loaded. 
+[2024-12-11 22:04:30] [INFO   ]  Custom Logger Initialized 
+[2024-12-11 22:04:30] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-11 22:04:30] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-11 22:04:30] [INFO   ] Watchdog Thread hooked. 
+[2024-12-11 22:04:30] [INFO   ]  bStats Metrics enabled. 
+[2024-12-11 22:04:30] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-11 22:04:30] [INFO   ] Unfreezing biome registry... 
+[2024-12-11 22:04:30] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-11 22:04:30] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-11 22:04:30] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-11 22:04:30] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-11 22:04:30] [INFO   ] Freezing biome registry 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-11 22:04:30] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-11 22:04:31] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-11 22:04:32] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-11 22:04:32] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-11 22:04:32] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-11 22:04:32] [INFO   ] Java 14+ detected. 
+[2024-12-11 22:04:32] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-11 22:04:32] [INFO   ]  world loaded. 
+[2024-12-12 03:15:57] [INFO   ]  Custom Logger Initialized 
+[2024-12-12 03:15:57] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-12-12 03:15:57] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-12-12 03:15:57] [INFO   ] Watchdog Thread hooked. 
+[2024-12-12 03:15:57] [INFO   ]  bStats Metrics enabled. 
+[2024-12-12 03:15:57] [INFO   ]  Detected version: 1.20.1, number: 20.1 
+[2024-12-12 03:15:57] [INFO   ] Unfreezing biome registry... 
+[2024-12-12 03:15:57] [INFO   ] Registered custom biome: muddy_bog 
+[2024-12-12 03:15:57] [INFO   ] Registered custom biome: cherry_grove 
+[2024-12-12 03:15:57] [INFO   ] Registered custom biome: scarlet_forest 
+[2024-12-12 03:15:57] [INFO   ] Registered custom biome: crystalline_cluster 
+[2024-12-12 03:15:57] [INFO   ] Freezing biome registry 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: VillageHousePopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: VillagePopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: OutpostPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: PyramidPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: MonumentPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: StrongholdPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: MansionPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: AncientCityPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: LargeCavePopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: MineshaftPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: CatacombsPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: BadlandsMinePopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: WarmOceanRuinsPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Large Structure: TrailRuinsPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: SmallDungeonPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: ShipwreckPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: BuriedTreasurePopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: RuinedPortalPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: IglooPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
+[2024-12-12 03:15:57] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
+[2024-12-12 03:15:58] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-12 03:15:59] [INFO   ]  Detected world: world, commencing injection...  
+[2024-12-12 03:15:59] [INFO   ] Creating TW instance: world - -4878645369177431556 
+[2024-12-12 03:15:59] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-12-12 03:15:59] [INFO   ] Java 14+ detected. 
+[2024-12-12 03:15:59] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-12-12 03:15:59] [INFO   ]  world loaded. 
