@@ -2255,3 +2255,34 @@ java.lang.IllegalStateException: zip file closed
 [04:07:15] [Server thread/INFO]: Comunalgoat13 issued server command: //sel cuboid
 [04:08:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
 [04:08:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:08:53] [Server thread/INFO]: Comunalgoat13 issued server command: //drawsel
+[04:09:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:09:15] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:09:33] [Server thread/INFO]: Comunalgoat13 issued server command: //drawsel
+[04:09:35] [Server thread/INFO]: Comunalgoat13 issued server command: //drawsel
+[04:10:25] [Async Chat Thread - #82/INFO]: [Not Secure] ୰ Sarh_a180_23 > La verdad ahora se abrieron muchas posibilidades para extender el lore XD
+[04:10:32] [Async Chat Thread - #83/INFO]: [Not Secure] ୰ Comunalgoat13 > demasiadas
+[04:11:11] [Async Chat Thread - #82/INFO]: [Not Secure] ୰ Sarh_a180_23 > si hay una civilizacion bien puedo hacer que ellos expliquen en lugar de andar poniendo 20 mil cinematicas y que alguien grabe el audio, etc, etc
+[04:11:16] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 21 70 1 48 128 -18 air
+[04:11:21] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 21 70 1 45 128 -17 air
+[04:11:22] [Server thread/INFO]: [Comunalgoat13: Successfully filled 7656 block(s)]
+[04:11:54] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 20 70 -8 42 129 -31 air
+[04:12:03] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 20 70 -8 41 130 -28 air
+[04:12:03] [Server thread/INFO]: [Comunalgoat13: Successfully filled 5977 block(s)]
+[04:12:45] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 19 70 -10 43 133 -40 air
+[04:12:52] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 19 70 -10 41 133 -38 air
+[04:12:57] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 19 70 -10 38 133 -35 air
+[04:13:03] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 19 70 -10 34 128 -33 air
+[04:13:03] [Server thread/INFO]: [Comunalgoat13: Successfully filled 2039 block(s)]
+[04:13:15] [Async Chat Thread - #84/INFO]: [Not Secure] ୰ Comunalgoat13 > namames
+[04:13:26] [Async Chat Thread - #85/INFO]: [Not Secure] ୰ Comunalgoat13 > quien te obligo a poner tantos arboles pregunta xDDD?
+[04:13:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[04:13:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[04:14:09] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 12 70 -39 61 72 -17 air
+[04:14:09] [Server thread/INFO]: [Comunalgoat13: Successfully filled 1366 block(s)]
+[04:14:22] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 12 70 -39 52 82 -15 air
+[04:14:22] [Server thread/INFO]: [Comunalgoat13: Successfully filled 935 block(s)]
+[04:14:38] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 12 70 -39 45 133 -21 air
+[04:14:57] [Async Chat Thread - #86/INFO]: [Not Secure] ୰ Comunalgoat13 > che si podes quitar los arboles que puedas xD
+[04:15:02] [Async Chat Thread - #86/INFO]: [Not Secure] ୰ Comunalgoat13 > ya me voy :)
+[04:15:03] [Server thread/INFO]: Comunalgoat13 lost connection: Disconnected

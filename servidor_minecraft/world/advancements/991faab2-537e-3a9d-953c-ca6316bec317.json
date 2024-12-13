@@ -149,73 +149,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 04:06:04 +0000"
+      "log_spam_fixer": "2024-12-13 04:14:04 +0000"
     },
     "done": false
   },
@@ -330,6 +330,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-13 03:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-13 04:11:32 +0000"
     },
     "done": true
   },
@@ -675,6 +681,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-13 04:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-13 02:10:52 +0000"
@@ -996,6 +1008,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-13 02:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 04:10:53 +0000"
     },
     "done": true
   },
