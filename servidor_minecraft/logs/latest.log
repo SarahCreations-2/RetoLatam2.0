@@ -596,3 +596,31 @@ java.lang.IllegalStateException: zip file closed
 [01:05:50] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper axolotl
 [01:06:14] [Server thread/INFO]: [Not Secure] [Server] porque pusiste un shopkeeper XD
 [01:06:44] [Server thread/INFO]: [Not Secure] [Server] ya te pase el texturepack
+[01:07:09] [Server thread/INFO]: Server Plugins (38):
+[01:07:09] [Server thread/INFO]: Bukkit Plugins:
+[01:07:09] [Server thread/INFO]:  - AnimationsCore, AxInventoryRestore, ChatManager, Chunky, CinematicCore, CommandPanels, ConditionalEvents, CustomizablePlayerModels, DecentHolograms, DiscordSRV
+[01:07:09] [Server thread/INFO]:  *EasyWhitelist, Elevator, eShulkerBox, ExecutableItems, floodgate, Geyser-Spigot, ItemEdit, LuckPerms, MythicMobs, PlaceholderAPI
+[01:07:09] [Server thread/INFO]:  ProtocolLib, SCore, ServerListPlus, ServerVariables, Shopkeepers, SimpleTimer, SkinsRestorer, Skulls, Sleeper, spark
+[01:07:09] [Server thread/INFO]:  SternalBoard, TabList, TerraformGenerator, TradeManager, Vault, ViaVersion, WorldEdit, WorldGuard
+[01:08:45] [Async Chat Thread - #4/INFO]: [Not Secure] ֎ Comunalgoat13 > se ve mejor con el logo arriba del cuadro que die retolatam
+[01:08:55] [Async Chat Thread - #4/INFO]: [Not Secure] ֎ Comunalgoat13 > no ay forma de que me lo quites ami xD?
+[01:08:59] [Async Chat Thread - #5/INFO]: [Not Secure] ֎ Comunalgoat13 > me incomoda
+[01:09:02] [Async Chat Thread - #4/INFO]: [Not Secure] ֎ Comunalgoat13 > :)
+[01:09:20] [Server thread/INFO]: Comunalgoat13 issued server command: /give Comunalgoat13 minecraft:potato 1
+[01:09:20] [Server thread/INFO]: [Comunalgoat13: Gave 1 [Potato] to Comunalgoat13]
+[01:09:54] [Server thread/INFO]: Comunalgoat13 issued server command: /give Comunalgoat13 minecraft:command_block 1
+[01:09:54] [Server thread/INFO]: [Comunalgoat13: Gave 1 [Command Block] to Comunalgoat13]
+[01:11:15] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:11:15] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:11:25] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:11:34] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:11:40] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:11:41] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:13:51] [Server thread/INFO]: Comunalgoat13 issued server command: /sternalboard toggle
+[01:14:36] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[01:14:36] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[01:15:52] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[01:15:52] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[01:16:20] [Server thread/INFO]: Comunalgoat13 lost connection: Disconnected
+[01:16:57] [User Authenticator #1/INFO]: UUID of player Comunalgoat13 is 991faab2-537e-3a9d-953c-ca6316bec317
+[01:16:57] [Server thread/INFO]: Comunalgoat13[/127.184.4.168:56525] logged in with entity id 807 at ([world]-10.379650485079063, 75.03730567745357, 10.997576272411134)
