@@ -921,3 +921,52 @@ Direct Download: https://get.discordsrv.com
 [23:11:16] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
 [23:11:28] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
 [23:11:32] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:11:38] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate reload
+[23:12:07] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:12:24] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:12:52] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:12:52] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:12:53] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:12:54] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:13:01] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:13:04] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:13:05] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:13:06] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:13:09] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:13:12] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:14:05] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:15:12] [Server thread/INFO]: Comunalgoat13 issued server command: //copy
+[23:15:18] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:15:30] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:15:34] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:15:39] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:15:43] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:15:51] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:15:54] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:15:57] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:16:02] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:16:03] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:16:10] [Server thread/INFO]: Comunalgoat13 issued server command: /undo
+[23:16:11] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:16:15] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:16:16] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:16:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[23:16:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[23:17:40] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 57 70 -31 67 70 -24 minecraft:spruce_planks
+[23:17:40] [Server thread/INFO]: [Comunalgoat13: Successfully filled 74 block(s)]
+[23:18:46] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[23:18:47] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[23:19:13] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[23:19:13] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[23:19:15] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[23:19:15] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[23:19:50] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[23:19:50] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[23:19:53] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[23:19:53] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[23:20:03] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 57 70 -31
+[23:20:08] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:20:12] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:20:15] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:20:42] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 42 68 -22 51 68 -10 minecraft:grass_block
+[23:20:42] [Server thread/INFO]: [Comunalgoat13: Successfully filled 73 block(s)]
