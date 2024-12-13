@@ -2525,3 +2525,16 @@ java.lang.NullPointerException: null
 [04:37:44] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace jungle_wood air
 [04:37:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [04:37:49] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:39:04] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:39:04] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:39:24] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[04:39:42] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace stone podzol
+[04:39:56] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace granite jungle_log
+[04:40:04] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace diorite jungle_log
+[04:40:11] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace andesite jungle_log
+[04:40:20] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace gravel jungle_log
+[04:46:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:46:37] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:46:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:46:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:47:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh create zonas
