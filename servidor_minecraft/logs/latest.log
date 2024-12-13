@@ -967,3 +967,83 @@ java.lang.IllegalStateException: zip file closed
 [02:06:49] [Async Chat Thread - #28/INFO]: [Not Secure] ୰ Comunalgoat13 > e
 [02:06:58] [Async Chat Thread - #29/INFO]: [Not Secure] ୰ Comunalgoat13 > xD?
 [02:07:12] [Async Chat Thread - #28/INFO]: [Not Secure] ୰ Sarh_a180_23 > top 5 cinematicas con menos produccion del mundo :v
+[02:07:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[02:07:43] [Async Chat Thread - #28/INFO]: [Not Secure] ୰ Comunalgoat13 > ago una zona de tradeos mejor
+[02:07:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /brush sphere jungle_leaves
+[02:08:47] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -2 46 -21 2 46 -29 air
+[02:08:47] [Server thread/INFO]: [Comunalgoat13: Successfully filled 26 block(s)]
+[02:09:03] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -2 46 -21 2 49 -29 air
+[02:09:03] [Server thread/INFO]: [Comunalgoat13: Successfully filled 93 block(s)]
+[02:09:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:09:26] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:09:28] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 3 48 -20 3 47 -29 minecraft:deepslate_bricks
+[02:09:28] [Server thread/INFO]: [Comunalgoat13: Successfully filled 17 block(s)]
+[02:09:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:09:34] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:09:44] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -3 47 -29 -3 48 -20 minecraft:deepslate_bricks
+[02:09:44] [Server thread/INFO]: [Comunalgoat13: Successfully filled 18 block(s)]
+[02:10:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:10:09] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:10:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:10:12] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:10:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:10:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:10:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:10:17] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:10:24] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -1 50 -21 1 50 -29 minecraft:deepslate_bricks
+[02:10:24] [Server thread/INFO]: [Comunalgoat13: Successfully filled 27 block(s)]
+[02:10:51] [Async Chat Thread - #30/INFO]: [Not Secure] ୰ Sarh_a180_23 > no quieres una ayudita? xd
+[02:10:57] [Async Chat Thread - #30/INFO]: [Not Secure] ୰ Comunalgoat13 > si quieres
+[02:11:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /brush unbind
+[02:11:12] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:11:12] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:11:15] [Server thread/INFO]: Sarh_a180_23 issued server command: //wand
+[02:11:40] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
+[02:11:44] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:11:45] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:11:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:11:50] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:11:54] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:11:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:02] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > pera
+[02:12:10] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > stop building
+[02:12:14] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:15] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Comunalgoat13 > okey
+[02:12:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:19] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:25] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[02:12:25] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[02:12:27] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[02:12:27] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[02:12:27] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:38] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /undo
+[02:12:42] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste
+[02:12:45] [Async Chat Thread - #33/INFO]: [Not Secure] ୰ Comunalgoat13 > el diavlo?
+[02:12:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:12:45] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:13:22] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Comunalgoat13 > che me dio un bajon de FPS
+[02:13:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /tps
+[02:13:33] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > tu wifi
+[02:13:34] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:13:38] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > Mira el tab
+[02:13:48] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[02:14:01] [Async Chat Thread - #33/INFO]: [Not Secure] ୰ Comunalgoat13 > que hiciste se re trabo todo
+[02:14:17] [Async Chat Thread - #32/INFO]: [Not Secure] ୰ Sarh_a180_23 > nada xd
+[02:15:21] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -5 46 -30
+[02:15:25] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -5 46 -30 5 50 -30 air
+[02:15:25] [Server thread/INFO]: [Comunalgoat13: Successfully filled 52 block(s)]
+[02:15:49] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 5 46 -32 -5 50 -32 air
+[02:15:49] [Server thread/INFO]: [Comunalgoat13: Successfully filled 55 block(s)]
+[02:15:55] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 5 46 -32 -5 50 -31 air
+[02:15:55] [Server thread/INFO]: [Comunalgoat13: Successfully filled 57 block(s)]
+[02:16:06] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[02:16:06] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[02:16:09] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[02:16:09] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[02:17:28] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -7 46 -35 6 50 -35 air
+[02:17:28] [Server thread/INFO]: [Comunalgoat13: Successfully filled 64 block(s)]
