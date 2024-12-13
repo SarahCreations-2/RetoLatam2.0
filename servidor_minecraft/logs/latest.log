@@ -2113,3 +2113,79 @@ java.lang.IllegalStateException: zip file closed
 [03:47:47] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > pobre Euphoria
 [03:47:52] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > siempre se muere xD
 [03:47:53] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[03:48:16] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > Sarh_a180_23 no crees que se deba despejar poco aca?
+[03:48:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:48:20] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:48:25] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23 c
+[03:48:30] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23 Comunalgoat13
+[03:48:30] [Server thread/INFO]: [Comunalgoat13: Teleported Sarh_a180_23 to Comunalgoat13]
+[03:48:34] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:48:34] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:48:36] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:48:36] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:48:53] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > Es que segun el lore la ruleta se volvio loca en retolatam 1.0
+[03:49:00] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > entonces
+[03:49:24] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > mato a todos (justificación del /kill @e de javier)
+[03:49:28] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > pero
+[03:49:49] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > las nutrias volvieron a la vida gracias a un totem XD
+[03:49:56] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > javier era revil y le dio inteligencia y iso el /kill @e
+[03:50:11] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > pero la ruleta seguia como loca y salio volando al espacio
+[03:50:33] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > y de ahi cambio de dimensión cayendo aqui
+[03:50:45] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > tremenda historia
+[03:50:46] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > en un mundo distinto en medio de la jungla
+[03:51:23] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > pov: el lore xD
+[03:51:46] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > se supone que una civilización la encontro y la pudo contener pero el poder llamaba a revil y logro hacer que su poder fuera liberado y ahora ese es el faro :v
+[03:52:06] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > se supone que el faro es el poder de la ruleta
+[03:52:33] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > y la razon por la que sigue funcionando y apareciento, etc
+[03:53:05] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > como le vamos a aser con los modelos de las nutrias nose?
+[03:53:23] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > esta el plugin de CustomPlayerModels
+[03:53:28] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > ay=
+[03:53:29] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > ?
+[03:53:31] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > si
+[03:53:32] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[03:53:36] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > A
+[03:53:37] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > Pon /pl
+[03:53:39] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > pense que no
+[03:53:42] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > y vas a ver todos los plugins
+[03:53:42] [Server thread/INFO]: Comunalgoat13 issued server command: /pl
+[03:53:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[03:54:02] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm setskin
+[03:54:14] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm setskin Comunalgoat13
+[03:54:25] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm setskin -r
+[03:54:32] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > como se supone que me ponga la skin?
+[03:54:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm detect
+[03:54:48] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm scaling 0.5
+[03:54:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm detect Sarh_a180_23
+[03:55:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /customizableplayermodels:cpm setskin Sarh_a180_23
+[03:55:05] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm scaling height 0.5
+[03:55:13] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm scaling width
+[03:55:18] [Server thread/INFO]: Comunalgoat13 issued server command: /customizableplayermodels:cpm scaling width 0.5
+[03:55:27] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > creo que el que va a tener el modelo si debe tener el mod
+[03:55:30] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > me parece
+[03:55:40] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > A
+[03:55:51] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > que el plugin funciona como una extención para que los demas vean la skin sin tener el mod
+[03:55:52] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > ponselo xD tambien el pheikiu
+[03:56:11] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > pon 3 mods ._.
+[03:56:29] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > no puedo, porque asi ya no se podrian unir los de bedrock
+[03:56:37] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > f
+[03:57:00] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > oye
+[03:57:03] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Comunalgoat13 > entonces como le vas a aser?
+[03:57:04] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > e
+[03:57:08] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > y si aqui en el centro vacio
+[03:57:15] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[03:57:15] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[03:57:23] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > que centro
+[03:57:25] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:57:25] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:57:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:57:25] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:57:28] [Async Chat Thread - #79/INFO]: [Not Secure] ୰ Sarh_a180_23 > esto
+[03:57:29] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:57:29] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:57:43] [Async Chat Thread - #80/INFO]: [Not Secure] ୰ Comunalgoat13 > a?
+[03:57:52] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > como nomas el piso
+[03:57:55] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > sin las salas?
+[03:58:06] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > que?
+[03:58:08] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Sarh_a180_23 > no XD
+[03:58:12] [Async Chat Thread - #80/INFO]: [Not Secure] ୰ Sarh_a180_23 > Aun no explicaba
+[03:58:18] [Async Chat Thread - #78/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
