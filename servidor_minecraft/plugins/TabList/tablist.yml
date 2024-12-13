@@ -51,7 +51,7 @@ header:
 footer:
 - ""
 - "&e&lJugadores Online:&6 %online-players%&7/&6%max-players%"
-- "&6<28> &6&lIP: discussion-kidney.gl.joinmc.link &6<28>\n\n&6&m======================================"
+- "&6<28> &6&lIP: digital-behind.gl.joinmc.link &6<28>\n\n&6&m======================================"
 
 # Defines per world tablist for different worlds
 # You can separate world names with ", " to only show tablist in those specified worlds

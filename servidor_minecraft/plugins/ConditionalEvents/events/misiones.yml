@@ -1,14 +1,27 @@
-pilarEntregarMision:
-  type: block_interact
-  conditions:
-  - '%block_x% == 20'
-  - '%block_y% == 60'
-  - '%block_z% == 20'
-  - '%block_world% == world'
-  - '%block% == BARREL'
-  - '%action_type% == RIGHT_CLICK'
-  - '%item% == IRON_NUGGET'
-  - '%item_custom_model_data% == 2'
-  actions:
-    default:
-    - 'to_all: message: &b&l%player% &l&3ha completado la misión diaria.'
+Events:
+  pilarEntregarMision:
+    type: block_interact
+    conditions:
+    - '%block_x% == 34'
+    - '%block_y% == 47'
+    - '%block_z% == 0'
+    - '%block% == BARRIER'
+    - '%action_type% == RIGHT_CLICK'
+    - '%item% == IRON_NUGGET'
+    - '%item_custom_model_data% == 2'
+    enabled: true
+    actions:
+      default:
+      - 'to_all: message: &b&l%player% &l&3ha completado la misión diaria.'
+  mision1:
+    type: item_craft
+    conditions:
+    - '%item% == IRON_HELMET'
+    actions:
+      default:
+      - 'call_event: darDedita'
+  darDedita:
+    type: call
+    actions:
+      default:
+      - 'give_item: id:IRON_NUGGET;amount:1;custom_model_data:2'
