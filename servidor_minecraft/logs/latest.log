@@ -1095,3 +1095,59 @@ java.lang.IllegalStateException: zip file closed
 [02:27:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
 [02:27:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa player @a
 [02:27:34] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:recompensa to 2 players]
+[02:27:45] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:27:46] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:28:53] [Async Chat Thread - #41/INFO]: [Not Secure] ୰ Comunalgoat13 > Sarh_a180_23
+[02:29:08] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:29:13] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:30:05] [Async Chat Thread - #42/INFO]: [Not Secure] ୰ Comunalgoat13 > ano ya nada xD
+[02:30:57] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:30:58] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:31:05] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > listo
+[02:31:14] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > pasame las deditas azules y naranjas xD
+[02:31:16] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > si puedes
+[02:31:17] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:31:22] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:31:22] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:31:23] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > o si no se puede pos no se pudo
+[02:31:38] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper axolotl
+[02:31:51] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > este asi dejalo
+[02:31:57] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > le wua a aser otra cosa
+[02:32:04] [Async Chat Thread - #42/INFO]: [Not Secure] ୰ Sarh_a180_23 > ahi hay que sumonear a los shoopkepers xd
+[02:32:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper villager
+[02:32:21] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper allay
+[02:32:50] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[02:32:51] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:32:51] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:33:07] [Async Chat Thread - #43/INFO]: [Not Secure] ୰ Comunalgoat13 > le tire tremenda posion de invisibilidad
+[02:33:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /data get entity
+[02:33:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /data get entity @p
+[02:33:36] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeepers:shopkeeper Admin-shop
+[02:33:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule sendCommandFeedback true
+[02:33:51] [Server thread/INFO]: [Sarh_a180_23: Gamerule sendCommandFeedback is now set to: true]
+[02:33:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /data get entity @p
+[02:33:59] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper Admin-shop
+[02:34:47] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:34:48] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:34:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /data get entity @s
+[02:34:52] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:34:53] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:34:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamerule sendCommandFeedback false
+[02:34:59] [Server thread/INFO]: [Sarh_a180_23: Gamerule sendCommandFeedback is now set to: false]
+[02:35:11] [Async Chat Thread - #44/INFO]: [Not Secure] ୰ Comunalgoat13 > :)?
+[02:35:19] [Async Chat Thread - #45/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[02:35:19] [Async Chat Thread - #45/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:35:28] [Server thread/INFO]: Comunalgoat13 issued server command: /effect clear @a
+[02:35:28] [Server thread/INFO]: [Comunalgoat13: Removed every effect from 2 targets]
+[02:35:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /effect clear @a
+[02:35:50] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper edit
+[02:35:57] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper allay
+[02:36:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:command_block
+[02:36:07] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Command Block] to Sarh_a180_23]
+[02:36:10] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:36:10] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:36:18] [Async Chat Thread - #44/INFO]: [Not Secure] ୰ Comunalgoat13 > otia
+[02:36:54] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper allay
+[02:37:22] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:37:23] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:37:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper villager

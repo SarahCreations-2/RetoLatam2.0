@@ -31,3 +31,33 @@ data-version: 3|2|3465
         v: 3465
         type: POTATO
   snapshots: []
+'9':
+  uniqueId: 6a2b4167-11d1-4c3b-b187-8dc24b3f175b
+  world: world
+  x: 5
+  y: 46
+  z: -35
+  yaw: 70.89771
+  type: admin
+  name: ''
+  object:
+    type: allay
+  recipes: {}
+  snapshots: []
+'10':
+  uniqueId: 02bb9768-6a04-44cf-8286-7cfda1ea6518
+  world: world
+  x: -3
+  y: 45
+  z: -30
+  yaw: 139.39409
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
