@@ -3262,3 +3262,15 @@ Caused by: java.lang.NullPointerException
 [05:36:22] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
 [05:36:24] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [05:36:25] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:43:49] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[05:43:51] [User Authenticator #5/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[05:43:51] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:44871] logged in with entity id 11955 at ([world]3.4131872776458607, 53.66333976650475, 4.130405977066337)
+[05:43:53] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[05:43:59] [User Authenticator #5/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[05:43:59] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:59327] logged in with entity id 11956 at ([world]3.4131872776458607, 53.66333976650475, 4.130405977066337)
+[05:48:48] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:48:48] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:49:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[05:49:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[05:49:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[05:49:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
