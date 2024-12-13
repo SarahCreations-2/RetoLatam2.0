@@ -2538,3 +2538,23 @@ java.lang.NullPointerException: null
 [04:46:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [04:46:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
 [04:47:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh create zonas
+[04:54:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set zonas 1 1 &d&lZonas del servidor
+[04:55:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set zonas 1 1 &5Teletransportes a diversas zonas del spawn
+[04:55:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr zonas
+[04:55:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set zonas 1 1 &d&lZonas del servidor
+[04:55:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add zonas 1 &5Teletransportes a diversas zonas del spawn
+[04:56:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set zonas 1 2 &5Teletransportes a diversos lugares
+[04:56:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:56:24] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:56:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:56:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:57:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[04:57:04] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[04:57:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[04:57:18] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[04:57:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[04:57:39] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[04:58:40] [Server thread/INFO]: Sarh_a180_23 issued server command: //copy
+[04:58:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:58:43] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:58:48] [Server thread/INFO]: Sarh_a180_23 issued server command: //paste

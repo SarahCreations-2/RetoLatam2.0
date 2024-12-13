@@ -1,4 +1,4 @@
-location: world:-18.513:46.000:0.492
+location: world:-18.513:48.000:0.492
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,8 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: Blank Line
+  - content: '&d&lZonas del servidor'
+    height: 0.3
+  - content: '&5Teletransportes a diversos lugares'
     height: 0.3
   actions: {}
