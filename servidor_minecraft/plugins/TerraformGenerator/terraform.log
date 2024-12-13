@@ -2055,3 +2055,5 @@
 [2024-12-13 00:59:57] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 353 34 277 in a room of size 14x6 
 [2024-12-13 00:59:57] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 263 34 371 in a room of size 13x13 
 [2024-12-13 00:59:57] [INFO   ] Calculated structure at 0,13 
+[2024-12-13 01:27:17] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -12,20 
+[2024-12-13 01:27:17] [INFO   ] Spawning farmhouse at -192,69,320 with rotation of EAST 
