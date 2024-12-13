@@ -31,13 +31,83 @@ data-version: 3|2|3465
         v: 3465
         type: POTATO
   snapshots: []
-'17':
-  uniqueId: 355aea20-b310-4f6e-8eb1-271dc03b7ba0
+'18':
+  uniqueId: 4466165f-635a-4ec9-b58a-79c7cadcbb51
+  world: world
+  x: -3
+  y: 47
+  z: -36
+  yaw: 226.89331
+  type: admin
+  name: ''
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'19':
+  uniqueId: ce870b78-e802-4760-b18d-4ff3ed54b7f9
+  world: world
+  x: -4
+  y: 47
+  z: -32
+  yaw: 78.45658
+  type: admin
+  name: ''
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'20':
+  uniqueId: 106de90f-a346-4ac7-938a-aaf648a284cb
+  world: world
+  x: -3
+  y: 47
+  z: -30
+  yaw: 90.560844
+  type: admin
+  name: ''
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'25':
+  uniqueId: ba961473-1e5a-4a37-a304-d9e434a1c45c
+  world: world
+  x: -4
+  y: 47
+  z: -38
+  yaw: 266.79633
+  type: admin
+  name: ''
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'26':
+  uniqueId: fdc2ce90-4ade-4c0b-97a7-f23a626873be
   world: world
   x: -3
   y: 47
   z: -34
-  yaw: 265.39178
+  yaw: 4.3272896
+  type: admin
+  name: ''
+  object:
+    type: bee
+    baby: true
+  recipes: {}
+  snapshots: []
+'28':
+  uniqueId: d96bf4dd-542c-46bc-a874-a13833c297b6
+  world: world
+  x: -3
+  y: 47
+  z: -40
+  yaw: 57.341896
   type: admin
   name: ''
   object:

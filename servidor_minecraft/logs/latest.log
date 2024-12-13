@@ -1633,3 +1633,68 @@ java.lang.IllegalStateException: zip file closed
 [02:46:57] [Async Chat Thread - #49/INFO]: [Not Secure] ୰ Comunalgoat13 > XRAY
 [02:47:03] [Async Chat Thread - #49/INFO]: [Not Secure] ୰ Sarh_a180_23 > si XD
 [02:47:23] [Async Chat Thread - #50/INFO]: [Not Secure] ୰ Sarh_a180_23 > No diseñe los bloques para que se evite eso
+[02:47:56] [Async Chat Thread - #50/INFO]: [Not Secure] ୰ Comunalgoat13 > pos como se le va a aser?
+[02:48:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:48:40] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper barrier
+[02:48:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:48:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:49:16] [Async Chat Thread - #51/INFO]: [Not Secure] ୰ Comunalgoat13 > A
+[02:49:28] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper bee
+[02:49:38] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper bee
+[02:49:45] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper bee
+[02:50:00] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:50:00] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:50:08] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper axolotl
+[02:50:15] [Async Chat Thread - #52/INFO]: [Not Secure] ୰ Sarh_a180_23 > si se ve
+[02:50:17] [Async Chat Thread - #52/INFO]: [Not Secure] ୰ Comunalgoat13 > se le ve la cola
+[02:50:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper Admin-shop
+[02:50:38] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper frog
+[02:50:50] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper cat
+[02:51:11] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper bee
+[02:53:10] [Async Chat Thread - #53/INFO]: [Not Secure] ୰ Comunalgoat13 > ey la abeja no se ve
+[02:53:24] [Async Chat Thread - #54/INFO]: [Not Secure] ୰ Sarh_a180_23 > ya te habia dicho mil veces XD
+[02:53:27] [Async Chat Thread - #53/INFO]: [Not Secure] ୰ Comunalgoat13 > a xD
+[02:53:31] [Async Chat Thread - #53/INFO]: [Not Secure] ୰ Comunalgoat13 > lo avias quitado
+[02:53:36] [Async Chat Thread - #53/INFO]: [Not Secure] ୰ Comunalgoat13 > pense que no la ivas a poner
+[02:53:50] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:53:51] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:53:55] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:53:56] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:54:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:54:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:54:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /shopkeeper bee
+[02:55:03] [Server thread/INFO]: Comunalgoat13 issued server command: /give Comunalgoat13 minecraft:command_block
+[02:55:03] [Server thread/INFO]: [Comunalgoat13: Gave 1 [Command Block] to Comunalgoat13]
+[02:55:10] [Server thread/INFO]: [@: Summoned new Fletcher]
+[02:55:16] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > mira
+[02:55:23] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:55:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:1}
+[02:55:38] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:38] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > solo que es cambiarle los nombres
+[02:55:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:2}
+[02:55:40] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:3}
+[02:55:42] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:4}
+[02:55:44] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:5}
+[02:55:46] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:47] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > no?
+[02:55:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:totem_of_undying{CustomModelData:6}
+[02:55:49] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Totem of Undying] to Sarh_a180_23]
+[02:55:50] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:55:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:55:52] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > a
+[02:55:56] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > eso que es
+[02:56:02] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > no lo ves?
+[02:56:02] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > no se ve como totem
+[02:56:09] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Comunalgoat13 > pasa 1
+[02:56:26] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > se ven como de la mierda xD
+[02:56:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:56:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:56:30] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:56:40] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4293, uuid='460303f0-3f4d-427a-8327-66bcf5a28eb4', l='ServerLevel[world]', x=3.84, y=46.00, z=-31.84, cpos=[0, -2], tl=1785, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[02:56:55] [Server thread/INFO]: [@: Summoned new Fletcher]
+[02:57:06] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > el penultimo como se llamaba?
+[02:57:10] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > Que suerte tuviste XD
+[02:57:24] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > El coso leyó mi custom model data
