@@ -81,7 +81,7 @@ data-version: 3|2|3465
   z: -38
   yaw: 266.79633
   type: admin
-  name: ''
+  name: DEDITAS
   object:
     type: bee
     baby: true
@@ -157,9 +157,176 @@ data-version: 3|2|3465
   z: -40
   yaw: 57.341896
   type: admin
-  name: ''
+  name: TOTEMS
   object:
     type: bee
     baby: true
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem EonCueva","color":"yellow","italic":false}]'
+          lore:
+          - '"Posibilidad de vivir 100% "'
+          custom-model-data: 2
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000002
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Nutria","color":"yellow","italic":false}]'
+          lore:
+          - '"PTO QUIEN LEE"'
+          custom-model-data: 1
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000001
+              operation: 0
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem OverWorld","color":"yellow","italic":false}]'
+          lore:
+          - '"Añde 3 corazones"'
+          custom-model-data: 3
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 6.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000003
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem EonCueva","color":"yellow","italic":false}]'
+          lore:
+          - '"Posibilidad de vivir 100% "'
+          custom-model-data: 2
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000002
+              operation: 0
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '[{"text":"Totem Acuatico","color":"yellow","italic":false}]'
+          lore:
+          - '"Añde 4 corazones"'
+          custom-model-data: 4
+          attribute-modifiers:
+            GENERIC_MAX_HEALTH:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              name: generic.max_health
+              slot: OFF_HAND
+              uuid: 00000001-0000-0001-0000-000100000004
+              operation: 0
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:water
   snapshots: []
