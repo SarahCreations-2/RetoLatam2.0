@@ -1698,3 +1698,86 @@ java.lang.IllegalStateException: zip file closed
 [02:57:06] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > el penultimo como se llamaba?
 [02:57:10] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > Que suerte tuviste XD
 [02:57:24] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > El coso leyó mi custom model data
+[02:58:13] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > che porque se ven los totems de la mierda?
+[02:58:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill 8554e4ed-21c2-46e5-8932-c6a34ff8f32c
+[02:58:15] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4339, uuid='8554e4ed-21c2-46e5-8932-c6a34ff8f32c', l='ServerLevel[world]', x=22.14, y=46.50, z=-1.04, cpos=[1, -1], tl=1599, v=true] died, message: 'Fletcher was killed'
+[02:58:15] [Server thread/INFO]: [Sarh_a180_23: Killed Fletcher]
+[02:58:25] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > como si los fuera a disparar?
+[02:58:26] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Sarh_a180_23 > ni idea
+[02:58:27] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:58:48] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > pero en la manito se ve bien
+[02:58:54] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Sarh_a180_23 > en primera persona
+[02:59:18] [Async Chat Thread - #55/INFO]: [Not Secure] ୰ Comunalgoat13 > en segunda se ve como de la mierda
+[02:59:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:59:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:59:40] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:59:41] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:59:42] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:59:43] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:59:46] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:00:16] [Async Chat Thread - #56/INFO]: [Not Secure] ୰ Sarh_a180_23 > realmente configurar a este aldeano es mas dificil que usar el plugin xD
+[03:00:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:1}
+[03:00:36] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:00:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[03:00:38] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:00:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:3}
+[03:00:39] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:00:41] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:00:42] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:00:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:4}
+[03:00:47] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:00:49] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:00:50] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:00:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:00:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:00:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:1}
+[03:00:53] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:00:55] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:00:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:00:59] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[03:01:01] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4402, uuid='26247534-bcbf-4c1e-95d5-68fc08388b74', l='ServerLevel[world]', x=-2.24, y=48.00, z=-26.49, cpos=[-1, -2], tl=1488, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:01:01] [User Authenticator #2/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[03:01:01] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:47831] logged in with entity id 4429 at ([world]-0.07522396946754109, 46.0, -36.201586241872604)
+[03:01:04] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:01:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:1}
+[03:01:19] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:01:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[03:01:22] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:01:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:3}
+[03:01:23] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[03:01:41] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Comunalgoat13 > dou
+[03:01:43] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4431, uuid='675cde7b-a1d2-4480-85f6-08814e27d38e', l='ServerLevel[world]', x=4.73, y=46.53, z=-37.18, cpos=[0, -3], tl=774, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:01:45] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:01:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit rename &6&lDedita Naranja
+[03:02:26] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Comunalgoat13 > y la azul?
+[03:02:37] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Comunalgoat13 > che pero necesito 5 xD
+[03:02:38] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Sarh_a180_23 > cual de las dos
+[03:02:44] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Comunalgoat13 > la oscura
+[03:02:57] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Comunalgoat13 > esa
+[03:02:59] [Async Chat Thread - #57/INFO]: [Not Secure] ୰ Sarh_a180_23 > pera
+[03:03:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit rename &9&lDedita
+[03:03:29] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4447, uuid='d73d2152-41e7-47c9-9f71-27d86c4f2548', l='ServerLevel[world]', x=-4.09, y=46.53, z=-35.97, cpos=[-1, -3], tl=2086, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:03:33] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:03:42] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4481, uuid='81cf35da-b0dc-49c7-bee6-e612803f49b6', l='ServerLevel[world]', x=5.13, y=46.04, z=-35.70, cpos=[0, -3], tl=180, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:03:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit lore set 1 &9Usala para canjear recompensas!
+[03:03:59] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:03:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit rename &1&lDedita
+[03:04:02] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4491, uuid='9ebdb33a-4892-48f0-b181-17cd1fb7971c', l='ServerLevel[world]', x=3.90, y=46.00, z=-37.34, cpos=[0, -3], tl=68, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:04:38] [Async Chat Thread - #59/INFO]: [Not Secure] ୰ Comunalgoat13 > no tienes de las de colores o nomas estas?
+[03:04:42] [Server thread/INFO]: Comunalgoat13 has made the advancement [Cloud Save]
+[03:04:50] [Async Chat Thread - #59/INFO]: [Not Secure] ୰ Sarh_a180_23 > cuales de colores
+[03:05:04] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Comunalgoat13 > las que se conseguia con 64 de las azules
+[03:05:16] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Sarh_a180_23 > eran tipo multicolor?
+[03:05:21] [Async Chat Thread - #59/INFO]: [Not Secure] ୰ Comunalgoat13 > zi
+[03:05:23] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:05:33] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Sarh_a180_23 > nop, XD, me acabo de acordar que existian
+[03:05:40] [Async Chat Thread - #59/INFO]: [Not Secure] ୰ Sarh_a180_23 > para que servian
+[03:05:48] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Comunalgoat13 > nomas para tenerlas xD
+[03:05:56] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Sarh_a180_23 > solo me vi el pov de Aquino y no me acuerdo que las usara XD
+[03:05:57] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Comunalgoat13 > era para no tener tantas de las azules oscuraws
+[03:06:11] [Async Chat Thread - #60/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[03:06:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit rename &3&lDedita mision diaria
+[03:07:01] [Server thread/INFO]: Villager EntityVillager['Fletcher'/4515, uuid='4174e3e0-f0b1-42d2-afb8-ec9c161c3c7c', l='ServerLevel[world]', x=2.50, y=46.00, z=-29.35, cpos=[0, -2], tl=1964, v=true] died, message: 'Fletcher was slain by Comunalgoat13'
+[03:07:06] [Server thread/INFO]: [@: Summoned new Fletcher]
+[03:07:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit lore set 1 &bCanjea esta dedita en el spawn para recibir la recompensa diaria
+[03:07:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /itemedit lore set last &bCanjea esta dedita en el spawn para recibir la recompensa diaria

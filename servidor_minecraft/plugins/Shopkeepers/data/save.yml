@@ -85,7 +85,55 @@ data-version: 3|2|3465
   object:
     type: bee
     baby: true
-  recipes: {}
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"dark_blue","text":"Dedita"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Usala
+            para canjear recompensas!"}],"text":""}'
+          custom-model-data: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IRON_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Dedita
+            Naranja"}],"text":""}'
+          custom-model-data: 1
   snapshots: []
 '26':
   uniqueId: fdc2ce90-4ade-4c0b-97a7-f23a626873be
