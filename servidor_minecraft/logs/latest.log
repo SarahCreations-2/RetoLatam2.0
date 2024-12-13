@@ -1047,3 +1047,51 @@ java.lang.IllegalStateException: zip file closed
 [02:16:09] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
 [02:17:28] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -7 46 -35 6 50 -35 air
 [02:17:28] [Server thread/INFO]: [Comunalgoat13: Successfully filled 64 block(s)]
+[02:17:36] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -7 46 -35 6 50 -33 air
+[02:17:36] [Server thread/INFO]: [Comunalgoat13: Successfully filled 116 block(s)]
+[02:18:22] [Async Chat Thread - #34/INFO]: [Not Secure] ୰ Comunalgoat13 > dejame los azules
+[02:19:05] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -7 46 -36 6 50 -38 air
+[02:19:05] [Server thread/INFO]: [Comunalgoat13: Successfully filled 178 block(s)]
+[02:19:22] [Async Chat Thread - #36/INFO]: [Not Secure] ୰ Sarh_a180_23 > si ves los modelos y sus texturas?
+[02:19:26] [Async Chat Thread - #37/INFO]: [Not Secure] ୰ Comunalgoat13 > si
+[02:19:49] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -6 46 -39 5 50 -39 air
+[02:19:49] [Server thread/INFO]: [Comunalgoat13: Successfully filled 58 block(s)]
+[02:20:02] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 4 46 -40 -5 50 -40 air
+[02:20:02] [Server thread/INFO]: [Comunalgoat13: Successfully filled 50 block(s)]
+[02:20:14] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -4 46 -41 3 50 -41 air
+[02:20:14] [Server thread/INFO]: [Comunalgoat13: Successfully filled 40 block(s)]
+[02:20:19] [Async Chat Thread - #37/INFO]: [Not Secure] ୰ Sarh_a180_23 > marca donde quieres que sea cada zona de tradeo
+[02:20:30] [Async Chat Thread - #37/INFO]: [Not Secure] ୰ Comunalgoat13 > deja termino xD
+[02:20:44] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 2 46 -42 -3 50 -42 air
+[02:20:44] [Server thread/INFO]: [Comunalgoat13: Successfully filled 30 block(s)]
+[02:20:47] [Async Chat Thread - #36/INFO]: [Not Secure] ୰ Sarh_a180_23 > para poner shoopkepers invisibles y que parezca que estan tradeando en el pilar :v
+[02:21:36] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:21:36] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:21:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:debug_stick
+[02:21:57] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Debug Stick] to Sarh_a180_23]
+[02:22:00] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:22:00] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:22:23] [Async Chat Thread - #38/INFO]: [Not Secure] ୰ Sarh_a180_23 > no es mas facil activarlas con el debug stick?
+[02:22:36] [Async Chat Thread - #38/INFO]: [Not Secure] ୰ Comunalgoat13 > pos
+[02:22:45] [Async Chat Thread - #39/INFO]: [Not Secure] ୰ Comunalgoat13 > na me gusta aser trabajo demas xD
+[02:22:49] [Async Chat Thread - #39/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:23:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[02:23:23] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to 2 players]
+[02:23:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa player @a
+[02:23:37] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:recompensa to 2 players]
+[02:23:56] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 1 46 -43 -2 50 -43 air
+[02:23:56] [Server thread/INFO]: [Comunalgoat13: Successfully filled 20 block(s)]
+[02:25:05] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:25:05] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:26:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:26:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:27:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[02:27:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[02:27:19] [Server thread/INFO]: Comunalgoat13 issued server command: /fill -4 51 -27 7 50 -44 minecraft:oak_planks
+[02:27:19] [Server thread/INFO]: [Comunalgoat13: Successfully filled 432 block(s)]
+[02:27:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:27:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:27:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[02:27:29] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:27:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa player @a
+[02:27:34] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:recompensa to 2 players]
