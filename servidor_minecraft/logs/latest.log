@@ -903,3 +903,21 @@ Direct Download: https://get.discordsrv.com
 [22:56:22] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
 [23:00:10] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
 [23:00:11] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[23:04:01] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[23:04:01] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[23:06:16] [Server thread/INFO]: Comunalgoat13 issued server command: //copy
+[23:07:16] [Server thread/INFO]: Comunalgoat13 issued server command: //copy
+[23:08:07] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[23:08:07] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[23:09:29] [Server thread/INFO]: Comunalgoat13 issued server command: //copy
+[23:09:38] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:10:05] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:10:09] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:10:28] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:10:31] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:10:47] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:10:55] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 100 100 100
+[23:11:11] [Server thread/INFO]: Comunalgoat13 issued server command: //rotate 90 0 0
+[23:11:16] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
+[23:11:28] [Server thread/INFO]: Comunalgoat13 issued server command: //paste
+[23:11:32] [Server thread/INFO]: Comunalgoat13 issued server command: //undo
