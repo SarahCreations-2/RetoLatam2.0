@@ -522,3 +522,7 @@ Direct Download: https://get.discordsrv.com
 [22:07:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
 [22:07:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
 [22:07:18] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
+[22:13:06] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 14 69 -38 45 69 -13 minecraft:grass_block
+[22:13:06] [Server thread/INFO]: [Comunalgoat13: Successfully filled 189 block(s)]
+[22:13:40] [Server thread/INFO]: Comunalgoat13 issued server command: /fill 34 67 -10 66 68 28 minecraft:grass_block
+[22:13:40] [Server thread/INFO]: [Comunalgoat13: Successfully filled 1553 block(s)]
