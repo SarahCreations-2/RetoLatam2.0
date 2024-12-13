@@ -1893,3 +1893,99 @@ java.lang.IllegalStateException: zip file closed
 [03:27:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh create entregar
 [03:27:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set entregar 1 1 &2&lMisión Diaria
 [03:27:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add entregar 1 &a Entrega la misión diaria aqui
+[03:28:14] [Async Chat Thread - #69/INFO]: [Not Secure] ୰ Sarh_a180_23 > Que haces XD
+[03:28:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:28:19] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:28:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[03:28:27] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[03:28:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:28:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:28:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:28:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:28:54] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:28:54] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:28:55] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:28:55] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:28:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill Sarh_a180_23
+[03:28:55] [Server thread/INFO]: Sarh_a180_23 was killed
+[03:28:55] [Server thread/INFO]: [Sarh_a180_23: Killed Sarh_a180_23]
+[03:28:58] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:28:58] [Async Chat Thread - #69/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[03:28:58] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:29:06] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:29:06] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:29:07] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:29:07] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:29:11] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:29:11] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:29:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh create bienvenida
+[03:29:13] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:29:13] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:29:22] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:29:22] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:29:24] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:29:24] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:29:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set bienvenida 1 1 &6&lBienvenido %player% a
+[03:30:01] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:30:01] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:30:02] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:30:02] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:30:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi ecloud download Player
+[03:30:07] [placeholderapi-io-#1/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:30:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi reload
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: sbtags [1.0.1]
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[03:30:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.2]
+[03:30:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set bienvenida 1 1 &6&lBienvenid@ a Reto Latam 2.0
+[03:30:28] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:30:28] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:30:30] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:30:30] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:30:51] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:30:51] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:31:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add bienvenida 1 &e&l¿Estas list@ para la aventura?
+[03:31:22] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:31:22] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:31:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh help
+[03:32:17] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[03:32:17] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[03:32:18] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:32:18] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:33:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add bienvenida 1 #ENTITY: BEE
+[03:33:26] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[03:33:27] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[03:33:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr bienvenida
+[03:34:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines setface bienvenida 1 3 EAST
+[03:34:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines setface bienvenida 1 3 SOUTH
+[03:34:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines setface bienvenida 1 3 NORTH
+[03:34:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[03:34:30] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[03:35:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr bienvenida
+[03:35:21] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[03:35:21] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[03:35:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr bienvenida
+[03:35:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr bienvenida
+[03:35:32] [Async Chat Thread - #71/INFO]: [Not Secure] ୰ Comunalgoat13 > xD
+[03:35:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr bienvenida
+[03:36:07] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode survival
+[03:36:07] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Survival Mode]
+[03:36:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add bienvenida 1 &6&lDirigete a algun tp dentro de esta sala
+[03:36:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add bienvenida 1 &e&lSuerte en tu aventura :D
+[03:36:50] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:36:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:37:13] [Async Chat Thread - #73/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[03:37:28] [Server thread/INFO]: Comunalgoat13 issued server command: /tps Comunalgoat13
+[03:37:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /tp 0.66 36.00 21.32
+[03:37:33] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.660000, 36.000000, 21.320000]
+[03:37:43] [Async Chat Thread - #74/INFO]: [Not Secure] ୰ Comunalgoat13 > para que sirve el /tps
+[03:37:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /tp ~ ~ ~
+[03:37:45] [Server thread/INFO]: [Sarh_a180_23: Teleported Sarh_a180_23 to 0.660000, 36.000000, 21.320000]
+[03:37:53] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode creative
+[03:37:53] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Creative Mode]
+[03:37:53] [Async Chat Thread - #74/INFO]: [Not Secure] ୰ Sarh_a180_23 > Para ver el rendimiento del server
+[03:37:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /tps
