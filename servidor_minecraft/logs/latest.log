@@ -624,3 +624,76 @@ java.lang.IllegalStateException: zip file closed
 [01:16:20] [Server thread/INFO]: Comunalgoat13 lost connection: Disconnected
 [01:16:57] [User Authenticator #1/INFO]: UUID of player Comunalgoat13 is 991faab2-537e-3a9d-953c-ca6316bec317
 [01:16:57] [Server thread/INFO]: Comunalgoat13[/127.184.4.168:56525] logged in with entity id 807 at ([world]-10.379650485079063, 75.03730567745357, 10.997576272411134)
+[01:17:16] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:17:20] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:17:23] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[01:17:23] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:36295] logged in with entity id 821 at ([world]35.80409605397737, 46.0, -3.860460817615843)
+[01:17:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /papi list
+[01:17:48] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > permiteme un segundo xd
+[01:17:51] [Server thread/INFO]: Comunalgoat13 issued server command: /tp Sarh_a180_23
+[01:17:51] [Server thread/INFO]: [Comunalgoat13: Teleported Comunalgoat13 to Sarh_a180_23]
+[01:18:12] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > se ve con animaciones 3D esta madre
+[01:18:19] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > A
+[01:18:40] [Server thread/INFO]: Comunalgoat13 issued server command: /shopkeeper allay
+[01:18:48] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > xD
+[01:19:39] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > se supone que se puede tradear aca no ?
+[01:19:49] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > otia
+[01:19:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[01:19:56] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[01:20:15] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > ami no me aparece xD
+[01:20:19] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > dou
+[01:20:35] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > yo creo que es el lunar xd
+[01:20:43] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > me cambio a launches normal?
+[01:20:52] [Async Chat Thread - #7/INFO]: [Not Secure] ୰ Sarh_a180_23 > naa
+[01:20:55] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > luego
+[01:20:58] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > launcher "
+[01:21:10] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > xD
+[01:21:22] [Async Chat Thread - #7/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[01:21:44] [Server thread/INFO]: Comunalgoat13 issued server command: /staff Comunalgoat13
+[01:21:45] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > Ya viste el tab?
+[01:21:53] [Async Chat Thread - #6/INFO]: [Not Secure] ֎ Comunalgoat13 > zi
+[01:21:55] [Server thread/INFO]: Comunalgoat13 issued server command: /staff
+[01:22:09] [Async Chat Thread - #7/INFO]: [Not Secure] ୰ Sarh_a180_23 > craftea un casco de hierro
+[01:22:13] [Server thread/INFO]: Comunalgoat13 has made the advancement [Acquire Hardware]
+[01:22:16] [Server thread/INFO]: Comunalgoat13 has made the advancement [Suit Up]
+[01:22:21] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > otia
+[01:22:30] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > estaba trabajando en eso ayer xd
+[01:22:42] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:22:45] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > porque hoy puse este sonido
+[01:22:49] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:22:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[01:22:59] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to 2 players]
+[01:23:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[01:23:14] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to 2 players]
+[01:23:15] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > no es mejor cambiarle de nombre ? dice pepita de hierro xD
+[01:23:27] [Async Chat Thread - #6/INFO]: [Not Secure] ୰ Sarh_a180_23 > a si, es que aun no pongo esa variable
+[01:23:36] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:23:37] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:23:45] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
+[01:23:46] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[01:23:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[01:23:47] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to 2 players]
+[01:23:49] [Async Chat Thread - #7/INFO]: [Not Secure] ֎ Comunalgoat13 > ta good
+[01:24:06] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[01:24:07] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[01:24:08] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[01:24:08] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[01:24:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Comunalgoat13 parent set admin
+[01:24:36] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (comunalgoat13)
+[01:24:36] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[01:25:18] [Async Chat Thread - #8/INFO]: [Not Secure] ୰ Comunalgoat13 > voy a investigar el mundo porque despues se me traba todo
+[01:25:21] [Server thread/INFO]: Comunalgoat13 issued server command: /gamemode spectator
+[01:25:21] [Server thread/INFO]: [Comunalgoat13: Set own game mode to Spectator Mode]
+[01:25:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /ruleta azul @a actionbar Reto Latam 2.0 realmente evoluciono
+[01:25:32] [Server thread/INFO]: Added tag 'anim.ruleta.azul.mini.actionbar' to 2 entities
+[01:25:50] [Server thread/INFO]: Comunalgoat13 issued server command: /staffchat
+[01:25:54] [Async Chat Thread - #9/INFO]: [Not Secure] ୰ Comunalgoat13 > ou
+[01:26:07] [Async Chat Thread - #8/INFO]: [Not Secure] ୰ Comunalgoat13 > se saca spoiler del spawn?
+[01:26:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[01:26:11] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[01:26:20] [Async Chat Thread - #9/INFO]: [Not Secure] ୰ Sarh_a180_23 > no entendi xd
+[01:26:24] [Async Chat Thread - #8/INFO]: [Not Secure] ୰ Comunalgoat13 > ubiera quedado mejor si estubiera algo mas alto
+[01:26:42] [Async Chat Thread - #9/INFO]: [Not Secure] ୰ Comunalgoat13 > tomo foto y paso a un canal de como va quedando pue xD
+[01:26:46] [Async Chat Thread - #8/INFO]: [Not Secure] ୰ Sarh_a180_23 > ya se xd, es que como ya dije no se construir :v
+[01:26:51] [Async Chat Thread - #9/INFO]: [Not Secure] ୰ Sarh_a180_23 > a
+[01:26:53] [Async Chat Thread - #8/INFO]: [Not Secure] ୰ Sarh_a180_23 > aun no
