@@ -518,3 +518,6 @@ Direct Download: https://get.discordsrv.com
 [03:42:06] [Server thread/INFO]: Comunalgoat13[/127.184.4.168:36425] logged in with entity id 218 at ([world]28.740880960966575, 70.0, -22.196830846039155)
 [03:47:19] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
 [03:47:19] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:51875] logged in with entity id 340 at ([world]1.5150985726720887, 59.0, 2.429332797251932)
+[03:50:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:50:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:50:16] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
