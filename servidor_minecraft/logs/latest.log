@@ -59,3 +59,24 @@
 [01:19:32] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
 [01:20:35] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:abrirmenu to Comunalgoat13]
 [01:20:35] [Server thread/INFO]: [Comunalgoat13: Played sound retolatam2.0:cerrarmenu to Comunalgoat13]
+[02:09:54] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[02:09:54] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:49641] logged in with entity id 7047 at ([world]-12.699999988079071, 52.74621053079429, 13.161829697622752)
+[02:10:18] [Async Chat Thread - #2/INFO]: [Not Secure] ୰ Sarh_a180_23 > Ya llegue :v
+[02:10:33] [Async Chat Thread - #2/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:11:08] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:11:09] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:11:10] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:11:10] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:11:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:11:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:11:36] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[02:11:38] [User Authenticator #2/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[02:11:38] [Server thread/INFO]: Sarh_a180_23[/127.208.16.98:55611] logged in with entity id 7093 at ([world]0.5139095065045477, 46.0, 35.14517407370121)
+[02:11:44] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:11:44] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:11:45] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:11:45] [Server thread/INFO]: [CommandPanels] Panel Opened for Sarh_a180_23
+[02:11:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:11:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:13:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
+[02:13:19] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
