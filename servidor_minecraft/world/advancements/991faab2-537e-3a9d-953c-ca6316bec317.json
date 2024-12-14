@@ -1301,73 +1301,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-13 23:51:34 +0000"
+      "log_spam_fixer": "2024-12-14 00:01:34 +0000"
     },
     "done": false
   },
@@ -1401,6 +1401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-13 23:51:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-13 23:22:31 +0000"
@@ -1431,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-13 23:51:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-13 22:20:02 +0000"
@@ -1452,6 +1464,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-13 22:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-13 23:58:04 +0000"
     },
     "done": true
   },
