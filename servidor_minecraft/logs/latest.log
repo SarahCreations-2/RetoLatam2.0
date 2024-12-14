@@ -80,3 +80,33 @@
 [02:11:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
 [02:13:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/start_revive
 [02:13:19] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/start_revive']
+[02:13:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:13:25] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:13:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[02:13:36] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[02:13:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[02:13:48] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[02:13:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[02:13:56] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[02:13:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[02:13:58] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[02:14:00] [Async Chat Thread - #3/INFO]: [Not Secure] ୰ Comunalgoat13 > ya vine pero me wua a ir al baño xD
+[02:14:05] [Async Chat Thread - #3/INFO]: [Not Secure] ୰ Sarh_a180_23 > XD
+[02:14:30] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:14:30] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:14:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:14:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:15:05] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:15:06] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:17:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[02:17:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[02:18:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:18:04] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:18:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:18:13] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:18:39] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:18:39] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[02:21:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[02:21:54] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[02:23:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[02:23:25] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
