@@ -1,5 +1,5 @@
 whitelist: false
-no_whitelisted: '&6&lEsta en mantenimiento, intenta entrar mas tarde!.'
+no_whitelisted: '&aYou''re not that awesome to be whitelisted.'
 whitelisted:
 - Reinassance
 - sarh_a180_23
