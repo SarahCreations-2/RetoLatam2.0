@@ -617,3 +617,48 @@ Direct Download: https://get.discordsrv.com
 [04:22:50] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [04:23:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
 [04:23:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:24:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:24:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:24:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:24:30] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:24:40] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:25:47] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:25:47] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:30:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:30:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:30:34] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
+[04:30:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:30:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:30:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @e
+[04:30:51] [Server thread/INFO]: Sarh_a180_23 was killed
+[04:30:51] [Server thread/INFO]: [Sarh_a180_23: Killed 178 entities]
+[04:31:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:31:01] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:31:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:31:08] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:32:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:32:18] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill
+[04:32:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @p
+[04:32:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @r
+[04:32:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /kill @e
+[04:33:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:33:01] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:33:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata_fogata
+[04:33:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[04:33:23] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[04:33:29] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:33:29] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:33:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:33:37] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:33:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:33:44] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:33:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[04:33:46] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[04:33:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:33:54] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:34:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[04:34:03] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[04:34:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:34:07] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:34:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[04:34:11] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
