@@ -40,4 +40,7 @@ Events:
     - '%servervariables_value_otherplayer_{player}:ironboots% == 1'
     actions:
       default:
-      - "to_all: message: &l&e&l%player% &eha entregado la mision"
+      - "remove_item: IRON_NUGGET;1;name:Dedita misión diaria;lore:Canjea esta dedita en el spawn para recibir tu recompensa;"
+      - "playsound_resource_pack: retolatam2.0:entregarmision;8;1"
+      - "wait: 5"
+      - "to_all: message: &3&l%player% &b&lha entregado la misión diaria"
