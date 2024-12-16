@@ -1039,3 +1039,32 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 [05:25:21] [Server thread/INFO]: [ServerVariables] Variable ironboots set to 1 for player Sarh_a180_23.
 [05:25:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [05:25:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:36:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironleggins Sarh_a180_23
+[05:36:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironboots Sarh_a180_23
+[05:36:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmetSarh_a180_23
+[05:36:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:37:01] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironchestplate Sarh_a180_23
+[05:37:05] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:37:06] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:37:14] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:37:17] [Server thread/INFO]: [ServerVariables] Variable ironchestplate set to 1 for player Sarh_a180_23.
+[05:37:20] [Server thread/INFO]: [ServerVariables] Variable ironleggins set to 1 for player Sarh_a180_23.
+[05:37:23] [Server thread/INFO]: [ServerVariables] Variable ironboots set to 1 for player Sarh_a180_23.
+[05:37:45] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:37:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:38:02] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:38:22] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:38:22] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:38:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironleggins Sarh_a180_23
+[05:38:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironchestplate Sarh_a180_23
+[05:38:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironleggins Sarh_a180_23
+[05:38:43] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:38:54] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironboots Sarh_a180_23
+[05:39:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:39:46] [Server thread/INFO]: [ServerVariables] Variable ironchestplate set to 1 for player Sarh_a180_23.
+[05:39:49] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:39:54] [Server thread/INFO]: [ServerVariables] Variable ironleggins set to 1 for player Sarh_a180_23.
+[05:40:00] [Server thread/INFO]: [ServerVariables] Variable ironboots set to 1 for player Sarh_a180_23.
+[05:40:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:40:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:40:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]

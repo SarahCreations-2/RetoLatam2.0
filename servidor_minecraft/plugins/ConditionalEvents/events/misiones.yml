@@ -2,6 +2,7 @@ Events:
   misionarmadura:
     type: item_craft
     enabled: true
+    one_time: true
     conditions:
     - '%item% == IRON_HELMET execute casco'
     - '%item% == IRON_CHESTPLATE execute peto'
