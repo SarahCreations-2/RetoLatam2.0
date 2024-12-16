@@ -1,0 +1,43 @@
+Events:
+  misionarmadura:
+    type: item_craft
+    enabled: true
+    conditions:
+    - '%item% == IRON_HELMET execute casco'
+    - '%item% == IRON_CHESTPLATE execute peto'
+    - '%item% == IRON_LEGGINGS execute pantalones'
+    - '%item% == IRON_BOOTS execute botas'
+    actions:
+      casco:
+      - 'console_command: svar set ironhelmet 1 %player%'
+      - 'playsound_resource_pack: recompensa;10;1'
+      peto:
+      - 'console_command: svar set ironchestplate 1 %player%'
+      - 'message: crafteaste un peto de hierro'
+      pantalones:
+      - 'console_command: svar set ironleggins 1 %player%'
+      - 'message: crafteaste un pantalon de hierro'
+      botas:
+      - 'console_command: svar set ironboots 1 %player%'
+      - 'message: crafteaste unas botas de hierro'
+  misionarmaduraentrega:
+    type: block_interact
+    enabled: true
+    one_time: true
+    conditions:
+    - '%block_x% == 34'
+    - '%block_y% == 47'
+    - '%block_z% == 0'
+    - '%block_world% == world'
+    - '%block% == BARRIER'
+    - '%action_type% == RIGHT_CLICK'
+    - '%servervariables_value_otherplayer_{player}:ironhelmet% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironchestplate% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironleggins% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironboots% == 1'
+    actions:
+      default:
+      - "to_all: message: &l&e&l%player% &eha entregado la mision"
+      - "give_item: id:IRON_NUGGET;amount:1;custom_model_data:2;"
+      one_time:
+      - "message: &cYa haz entregado esta misión"

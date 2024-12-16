@@ -64,3 +64,23 @@ variables:
     limitations:
       min_value: -100
       max_value: 100
+  ironhelmet:
+    variable_type: PLAYER
+    value_type: INTEGER
+    initial_value: 0
+  ironchestplate:
+    variable_type: PLAYER
+    value_type: INTEGER
+    initial_value: 0
+  ironleggins:
+    variable_type: PLAYER
+    value_type: INTEGER
+    initial_value: 0
+  ironboots:
+    variable_type: PLAYER
+    value_type: INTEGER
+    initial_value: 0
+  creepers:
+    variable_type: PLAYER
+    value_type: INTEGER
+    initial_value: 0

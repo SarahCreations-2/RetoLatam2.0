@@ -662,3 +662,17 @@ Direct Download: https://get.discordsrv.com
 [04:34:07] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
 [04:34:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
 [04:34:11] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[04:34:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:34:17] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:34:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/kill_fogata
+[04:34:19] [Server thread/INFO]: [Sarh_a180_23: Executed 2 command(s) from function 'cpaladeds3:cmd/kill_fogata']
+[04:34:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /function cpaladeds3:cmd/summon_fogata
+[04:34:22] [Server thread/INFO]: [Sarh_a180_23: Executed 1 command(s) from function 'cpaladeds3:cmd/summon_fogata']
+[04:34:41] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:34:41] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:35:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:35:02] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:35:55] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:35:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:38:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reload
+[04:41:46] [Async Chat Thread - #1/INFO]: [Not Secure] ୰ Sarh_a180_23 > 34 47 0
