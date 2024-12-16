@@ -20,5 +20,7 @@ Events:
       default:
       - 'to_all: message: &b&l%player% &l&3ha resusitado de entre los muertos.'
       - 'console_command: tp %player% @e[tag=fogata_h,limit=1]'
-      - 'wait: 8'
+      - 'wait: 4'
+      - 'console_command: tp %player% 0 37 0'
+      - 'wait: 2'
       - 'gamemode: SURVIVAL'

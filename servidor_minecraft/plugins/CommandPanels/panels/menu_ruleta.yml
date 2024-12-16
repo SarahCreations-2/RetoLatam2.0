@@ -1,59 +1,57 @@
 panels:
   menu_ruleta:
     perm: default
-    rows: '5'
-    title: '&8Panel Ruleta'
+    rows: '6'
+    title: "\u3201\u3201&f\u3200"
     empty: AIR
     item:
-      '3':
+      '12':
         material: blaze_rod
-        customdata: '2'
-        name: Crafteos
+        customdata: '8'
+        name: '&1&lCrafteos'
         lore:
-          - Da clic para ver los crafteos
-      '5':
+          - '&9Da clic para ver los crafteos'
+      '14':
         material: blaze_rod
-        name: Notificaciones
-        customdata: '7'
+        customdata: '8'
+        name: '&2&lNotificaciones'
         lore:
-          - Da clic para ver las notificaciones
-      '20':
+          - '&aDa clic para ver las notificaciones'
+      '29':
         material: blaze_rod
-        name: Cambios de Dificultad
+        customdata: '8'
+        name: '&4&lCambios de Dificultad'
         lore:
-          - Da clic para ver los cambios de dificultad
-        customdata: '3'
-      '22':
+          - '&6Da clic para ver los cambios de dificultad'
+      '31':
         material: blaze_rod
-        customdata: '1'
-        name: Reto Latam 2.0
-        lore:
-          - Gracias por jugar el servidor
-      '24':
+        customdata: '8'
+        name: '&9&lR&5&le&d&lt&4&lo &6&lL&e&la&a&lt&b&la&9&lm &6&l2.0'
+      '33':
         material: blaze_rod
-        customdata: '6'
-        name: Misiones Secundarias
+        customdata: '8'
+        name: '&5&lMisiones Secundarias'
         lore:
-          - Da clic para ver las misiones secundarias
-      '39':
+          - '&dDa clic para ver las misiones secundarias'
+      '48':
         material: blaze_rod
-        name: Enciclopedia de Mobs
+        customdata: '8'
+        name: '&6&lEnciclopedia'
         lore:
-          - Da clic para ver la descripción de los mobs
-        customdata: '4'
-      '41':
+          - '&eDa clic para ver la enciclopedia'
+      '50':
         material: blaze_rod
-        customdata: '5'
-        name: Misiones Diarias
+        customdata: '8'
+        name: '&3&lMisiones Diarias'
         lore:
-          - Da clic para ver las misiones
+          - '&bDa clic para ver las misiones diarias'
     open-with-item:
       stationary: '17'
-      material: ender_pearl
-      name: Menu
+      material: blaze_rod
+      name: '&2&lMenu'
       customdata: '1'
       lore:
-        - Da clic para abrir el menu
+        - '&aDa clic para abrir el menu'
     commands-on-open:
       - 'playsound retolatam2.0:abrirmenu player @s'
     commands-on-close:
