@@ -1,0 +1,9 @@
+Events:
+  misionArmadura:
+    type: item_craft
+    conditions:
+    - '%item% == IRON_HELMET || %item% == IRON CHESTPLATE'
+    - '%player_has%: IRON_HELMET >= 1 &&'
+    actions:
+      default:
+      - 'message: Test'

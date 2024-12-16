@@ -600,3 +600,20 @@ Direct Download: https://get.discordsrv.com
 [04:11:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
 [04:11:06] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
 [04:13:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh create contador
+[04:14:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines set contador 1 1 &4&lTiempo restante para el proximo evento
+[04:14:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh lines add contador 1 &6??:??:??
+[04:14:59] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr contador
+[04:15:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[04:15:16] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[04:15:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr contador
+[04:15:45] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr contador
+[04:15:58] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr contador
+[04:16:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /dh mvhr contador
+[04:20:52] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:20:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[04:20:53] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[04:22:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:22:49] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:22:50] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:23:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:23:38] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload

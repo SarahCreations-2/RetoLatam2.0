@@ -1,4 +1,4 @@
-location: world:0.594:51.538:3.437
+location: world:0.365:62.368:0.462
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,8 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: Blank Line
+  - content: '&4&lTiempo restante para el proximo evento'
+    height: 0.3
+  - content: '&6??:??:??'
     height: 0.3
   actions: {}
