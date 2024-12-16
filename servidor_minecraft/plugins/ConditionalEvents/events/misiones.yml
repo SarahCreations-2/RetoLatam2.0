@@ -20,6 +20,7 @@ Events:
       botas:
       - 'console_command: svar set ironboots 1 %player%'
       - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
+      - 'give_item: id:IRON_NUGGET;amount:1;custom_model_data:2;name:&3&lDedita misión diaria;lore:&bCanjea esta dedita en el spawn para recibir tu recompensa;'
   misionarmaduraentrega:
     type: block_interact
     enabled: true
@@ -32,7 +33,11 @@ Events:
     - '%block% == BARRIER'
     - '%action_type% == RIGHT_CLICK'
     - '%item% == IRON_NUGGET'
-    - '&item_custom_model_data& == 2'
+    - '%item_custom_model_data% == 2'
+    - '%servervariables_value_otherplayer_{player}:ironhelmet% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironchestplate% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironleggins% == 1'
+    - '%servervariables_value_otherplayer_{player}:ironboots% == 1'
     actions:
       default:
       - "to_all: message: &l&e&l%player% &eha entregado la mision"
