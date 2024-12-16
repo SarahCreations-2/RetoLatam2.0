@@ -676,3 +676,46 @@ Direct Download: https://get.discordsrv.com
 [04:35:56] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [04:38:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reload
 [04:41:46] [Async Chat Thread - #1/INFO]: [Not Secure] ୰ Sarh_a180_23 > 34 47 0
+[04:44:47] [JDA MainWS-ReadThread/WARN]: [DiscordSRV] [JDA] Got disconnected from WebSocket (Code 1000). Appending to reconnect queue
+[04:44:49] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] [JDA] WebSocket connection was closed and cannot be recovered due to identification issues
+CloseCode(4004 / The account token sent with your identify payload is incorrect.)
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  DiscordSRV was disconnected from Discord because:
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  The bot token is invalid
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV]  
+[04:44:49] [JDA MainWS-WriteThread/ERROR]: [DiscordSRV] ===================================================
+[04:44:49] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[04:44:54] [DiscordSRV - Shutdown/WARN]: [DiscordSRV] JDA took too long to shut down, skipping
+[04:44:54] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Apagado completado en 5006ms
+[04:46:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /pl
+[04:49:13] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:50:44] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[04:50:44] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[04:50:47] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:50:48] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:50:53] [Server thread/INFO]: Sarh_a180_23 lost connection: Disconnected
+[04:50:55] [User Authenticator #1/INFO]: UUID of player Sarh_a180_23 is 180e43ea-7bdf-3837-8381-a01a433c062c
+[04:50:55] [Server thread/INFO]: Sarh_a180_23[/127.53.46.26:58229] logged in with entity id 1902 at ([world]36.190080078212354, 46.0, -1.9703353340697893)
+[04:51:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:1}
+[04:51:14] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[04:51:16] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[04:51:16] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[04:51:19] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:3}
+[04:51:19] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[04:51:43] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[04:51:49] [Server thread/INFO]: [ServerVariables] Variable ironchestplate set to 1 for player Sarh_a180_23.
+[04:51:54] [Server thread/INFO]: [ServerVariables] Variable ironleggins set to 1 for player Sarh_a180_23.
+[04:51:59] [Server thread/INFO]: [ServerVariables] Variable ironboots set to 1 for player Sarh_a180_23.
+[04:52:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:52:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironboots
+[04:53:00] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironboots Sarh_a180_23
+[04:53:08] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironchestplate Sarh_a180_23
+[04:53:17] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[04:53:25] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironleggins Sarh_a180_23
+[04:53:49] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar get ironhelmet Sarh_a180_23
+[04:53:53] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:53:54] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:53:57] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[04:54:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]

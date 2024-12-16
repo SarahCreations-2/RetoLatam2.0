@@ -23,7 +23,7 @@ Events:
   misionarmaduraentrega:
     type: block_interact
     enabled: true
-    one_time: true
+    one_time: false
     conditions:
     - '%block_x% == 34'
     - '%block_y% == 47'
@@ -38,6 +38,3 @@ Events:
     actions:
       default:
       - "to_all: message: &l&e&l%player% &eha entregado la mision"
-      - "give_item: id:IRON_NUGGET;amount:1;custom_model_data:2;"
-      one_time:
-      - "message: &cYa haz entregado esta misión"
