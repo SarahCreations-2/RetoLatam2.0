@@ -1073,3 +1073,13 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 [05:54:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_leaves air
 [05:54:42] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_wood air
 [05:54:48] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_log air
+[05:57:32] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[05:57:32] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[06:02:12] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set default
+[06:02:12] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
+[06:02:12] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[06:03:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[06:03:09] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[06:03:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /deop Sarh_a180_23
+[06:03:57] [Server thread/INFO]: [Sarh_a180_23: Made Sarh_a180_23 no longer a server operator]
+[06:05:00] [Server thread/INFO]: Reloaded!

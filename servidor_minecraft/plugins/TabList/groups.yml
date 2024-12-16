@@ -12,9 +12,9 @@ groups:
     suffix: '&7 <12>'
   
   Default:
-    prefix: '&7'
+    prefix: '&7<62>&r %anim:Admin%'
     tabname: '%player%'
-    suffix: ''
+    suffix: '&7 <62>'
   
   Admin:
     prefix: '&7<62>&r %anim:Admin%'
