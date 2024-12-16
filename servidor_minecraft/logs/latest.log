@@ -1068,3 +1068,8 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 [05:40:20] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
 [05:40:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [05:40:35] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:54:12] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[05:54:22] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[05:54:33] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_leaves air
+[05:54:42] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_wood air
+[05:54:48] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace dark_oak_log air
