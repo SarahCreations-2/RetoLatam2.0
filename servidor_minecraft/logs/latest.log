@@ -1083,3 +1083,11 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 [06:03:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /deop Sarh_a180_23
 [06:03:57] [Server thread/INFO]: [Sarh_a180_23: Made Sarh_a180_23 no longer a server operator]
 [06:05:00] [Server thread/INFO]: Reloaded!
+[06:05:35] [luckperms-command-executor/INFO]: [LP] sarh_a180_23 had their existing parent groups cleared, and now only inherits nutria in context global.
+[06:06:52] [Server thread/INFO]: Reloaded!
+[06:07:04] [Server thread/INFO]: Made Sarh_a180_23 a server operator
+[06:07:15] [Server thread/INFO]: Sarh_a180_23 issued server command: /lp user Sarh_a180_23 parent set admin
+[06:07:15] [luckperms-command-executor/INFO]: [LP] LOG > (Sarh_a180_23) [U] (sarh_a180_23)
+[06:07:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[06:07:45] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:07:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]

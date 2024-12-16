@@ -26,4 +26,6 @@ groups:
     tabname: '%player%'
     suffix: ''
   nutria:
-    prefix: '[nutria] - '
+    prefix: '&7<62>&r %anim:Admin%'
+    tabname: '%player%'
+    suffix: '&7<62>'
