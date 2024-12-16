@@ -1091,3 +1091,39 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 [06:07:15] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
 [06:07:45] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [06:07:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[06:16:20] [Server thread/INFO]: Sarh_a180_23 has made the advancement [Colorful Arsenal]
+[06:17:16] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:17:17] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[06:17:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[06:17:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[06:17:37] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[06:17:40] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[06:17:48] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[06:18:01] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace azalea_leaves dark_oak_leaves
+[06:18:32] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace flowering_azalea_leaves dark_oak_leaves
+[06:20:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[06:20:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[06:20:29] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:20:29] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[06:20:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:21:09] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[06:21:10] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:21:20] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[06:25:10] [Craft Scheduler Thread - 170 - TradeManager/WARN]: [TradeManager] Plugin TradeManager v1.3.7 generated an exception while executing task 56
+java.lang.IllegalStateException: VillagerAcquireTradeEvent may only be triggered synchronously.
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:42) ~[paper-1.20.1.jar:git-Paper-196]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.20.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.addOffersFromItemListings(AbstractVillager.java:288) ~[?:?]
+	at net.minecraft.world.entity.npc.WanderingTrader.updateTrades(WanderingTrader.java:138) ~[?:?]
+	at net.minecraft.world.entity.npc.AbstractVillager.getOffers(AbstractVillager.java:129) ~[?:?]
+	at org.bukkit.craftbukkit.v1_20_R1.inventory.CraftMerchant.getRecipes(CraftMerchant.java:27) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.entity.CraftAbstractVillager.getRecipes(CraftAbstractVillager.java:41) ~[paper-1.20.1.jar:git-Paper-196]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown.checkTrades(TradeRestockCooldown.java:151) ~[TradeManager-1.3.7.jar:?]
+	at me.cantbejohn.tradeManager.events.TradeRestockCooldown$1.run(TradeRestockCooldown.java:102) ~[TradeManager-1.3.7.jar:?]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.20.1.jar:git-Paper-196]
+	at org.bukkit.craftbukkit.v1_20_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.20.1.jar:git-Paper-196]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.20.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
