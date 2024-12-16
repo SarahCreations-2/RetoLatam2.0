@@ -555,3 +555,37 @@ Direct Download: https://get.discordsrv.com
 [03:52:51] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [03:52:52] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [03:53:01] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:55:16] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:55:18] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:55:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode survival
+[03:55:21] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Survival Mode]
+[03:55:23] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[03:55:24] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[03:55:33] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision
+[03:55:37] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[03:55:37] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to Sarh_a180_23]
+[03:55:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:entregarmision player @a
+[03:55:47] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:entregarmision to Sarh_a180_23]
+[03:56:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:56:05] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:56:07] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:56:07] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:56:52] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[03:57:05] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[03:57:28] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:57:28] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:57:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:57:31] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:57:45] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace sea_lantern jungle_leaves
+[03:57:51] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:57:51] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:58:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode spectator
+[03:58:03] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Spectator Mode]
+[03:58:13] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos1
+[03:58:28] [Server thread/INFO]: Sarh_a180_23 issued server command: //pos2
+[03:58:30] [Server thread/INFO]: Sarh_a180_23 issued server command: //replace sea_lantern jungle_leaves
+[03:58:42] [Server thread/INFO]: Sarh_a180_23 issued server command: /gamemode creative
+[03:58:42] [Server thread/INFO]: [Sarh_a180_23: Set own game mode to Creative Mode]
+[03:58:52] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_20_R1! Trying to find NMS support
+[03:58:52] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_20_R1' loaded!
+[03:58:52] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'Skulls' to create a bStats instance!
