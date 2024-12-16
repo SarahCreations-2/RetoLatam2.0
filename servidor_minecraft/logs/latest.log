@@ -1035,3 +1035,7 @@ java.lang.NumberFormatException: For input string: "custom_model_data:2"
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[05:25:05] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:25:21] [Server thread/INFO]: [ServerVariables] Variable ironboots set to 1 for player Sarh_a180_23.
+[05:25:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:25:39] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
