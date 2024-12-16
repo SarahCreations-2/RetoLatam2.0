@@ -719,3 +719,54 @@ CloseCode(4004 / The account token sent with your identify payload is incorrect.
 [04:53:54] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
 [04:53:57] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
 [04:54:31] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[04:56:35] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:57:36] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:57:41] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[04:57:41] [Server thread/INFO]: The sound is too far away to be heard
+[04:57:57] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet
+[04:58:09] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:58:17] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[04:58:17] [Server thread/INFO]: No player was found
+[04:58:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet
+[04:58:27] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[04:58:53] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:58:58] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[04:58:58] [Server thread/INFO]: The sound is too far away to be heard
+[04:59:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[04:59:31] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[04:59:36] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[04:59:36] [Server thread/INFO]: Expected double
+...h_a180_23 %player_locate%<--[HERE]
+[04:59:46] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[04:59:48] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:00:50] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:00:54] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:01:03] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:01:04] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:01:09] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:01:22] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:01:23] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:01:28] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:01:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:01:47] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:01:51] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:02:06] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa
+[05:02:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa player Sarh_a180_23
+[05:02:11] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:recompensa to Sarh_a180_23]
+[05:02:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /playsound retolatam2.0:recompensa player Sarh_a180_23
+[05:02:14] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:recompensa to Sarh_a180_23]
+[05:02:21] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:02:26] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:02:29] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:02:36] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:02:45] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:02:55] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:02:56] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:03:02] [Server thread/INFO]: [ServerVariables] Variable ironhelmet set to 1 for player Sarh_a180_23.
+[05:03:07] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:abrirmenu to Sarh_a180_23]
+[05:03:07] [Server thread/INFO]: [Sarh_a180_23: Played sound retolatam2.0:cerrarmenu to Sarh_a180_23]
+[05:03:11] [Server thread/INFO]: Sarh_a180_23 issued server command: /svar reset ironhelmet Sarh_a180_23
+[05:04:02] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload
+[05:04:14] [Server thread/INFO]: Sarh_a180_23 issued server command: /give Sarh_a180_23 minecraft:iron_nugget{CustomModelData:2}
+[05:04:14] [Server thread/INFO]: [Sarh_a180_23: Gave 1 [Iron Nugget] to Sarh_a180_23]
+[05:04:24] [Server thread/INFO]: Sarh_a180_23 issued server command: /ce reload

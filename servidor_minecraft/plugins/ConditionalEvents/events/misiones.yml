@@ -10,16 +10,16 @@ Events:
     actions:
       casco:
       - 'console_command: svar set ironhelmet 1 %player%'
-      - 'playsound_resource_pack: recompensa;10;1'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
       peto:
       - 'console_command: svar set ironchestplate 1 %player%'
-      - 'message: crafteaste un peto de hierro'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
       pantalones:
       - 'console_command: svar set ironleggins 1 %player%'
-      - 'message: crafteaste un pantalon de hierro'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
       botas:
       - 'console_command: svar set ironboots 1 %player%'
-      - 'message: crafteaste unas botas de hierro'
+      - 'playsound_resource_pack: retolatam2.0:recompensa;8;1'
   misionarmaduraentrega:
     type: block_interact
     enabled: true
@@ -31,10 +31,8 @@ Events:
     - '%block_world% == world'
     - '%block% == BARRIER'
     - '%action_type% == RIGHT_CLICK'
-    - '%servervariables_value_otherplayer_{player}:ironhelmet% == 1'
-    - '%servervariables_value_otherplayer_{player}:ironchestplate% == 1'
-    - '%servervariables_value_otherplayer_{player}:ironleggins% == 1'
-    - '%servervariables_value_otherplayer_{player}:ironboots% == 1'
+    - '%item% == IRON_NUGGET'
+    - '&item_custom_model_data& == 2'
     actions:
       default:
       - "to_all: message: &l&e&l%player% &eha entregado la mision"
